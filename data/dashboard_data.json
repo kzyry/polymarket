@@ -1,0 +1,270 @@
+{
+  "generated_at": "2025-12-11T07:01:52.815959+00:00",
+  "widgets": {
+    "risk_categories": {
+      "medium_risk": [
+        {
+          "market_title": "Will the Houston Texans win Super Bowl 2026?",
+          "market_url": "https://polymarket.com/event/will-the-houston-texans-win-super-bowl-2026",
+          "market_end_date": "2026-02-08T12:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.052,
+          "multiplier": 19.23,
+          "score": 16.530579,
+          "risk_category": "medium",
+          "volume": 5250756.243795,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/HOU.png"
+        },
+        {
+          "market_title": "Will 'A Minecraft Movie' have the best domestic opening weekend in 2025?",
+          "market_url": "https://polymarket.com/event/will-a-minecraft-movie-have-the-best-domestic-opening-weekend-in-2025",
+          "market_end_date": "2025-12-31T12:00:00Z",
+          "outcome_name": "No",
+          "probability": 0.051,
+          "multiplier": 19.61,
+          "score": 13.443831,
+          "risk_category": "medium",
+          "volume": 1470435.183128,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-a-minecraft-movie-have-the-best-domestic-opening-weekend-in-2025-lNNN9icfGAua.jpg"
+        },
+        {
+          "market_title": "Maduro out in 2025?",
+          "market_url": "https://polymarket.com/event/maduro-out-in-2025-411",
+          "market_end_date": "2025-12-31T12:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.075,
+          "multiplier": 13.33,
+          "score": 12.333333,
+          "risk_category": "medium",
+          "volume": 16422943.396851,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maduro-out-in-2024-IioUZQNiyLYz.jpg"
+        },
+        {
+          "market_title": "MegaETH market cap (FDV) >$6B one day after launch?",
+          "market_url": "https://polymarket.com/event/megaeth-market-cap-fdv-6b-one-day-after-launch-365-559",
+          "market_end_date": "2026-06-30T00:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.055,
+          "multiplier": 18.18,
+          "score": 11.177461,
+          "risk_category": "medium",
+          "volume": 894582.115025,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/megaeth-market-cap-fdv-one-day-after-launch-KzYK3qwuIK8t.jpg"
+        },
+        {
+          "market_title": "Will the New England Patriots win Super Bowl 2026?",
+          "market_url": "https://polymarket.com/event/will-the-new-england-patriots-win-super-bowl-2026",
+          "market_end_date": "2026-02-08T12:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.082,
+          "multiplier": 12.2,
+          "score": 10.722303,
+          "risk_category": "medium",
+          "volume": 7469591.164447,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/NE.png"
+        }
+      ],
+      "low_risk": [
+        {
+          "market_title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+          "market_url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025",
+          "market_end_date": "2025-12-31T12:00:00Z",
+          "outcome_name": "No",
+          "probability": 0.105,
+          "multiplier": 9.52,
+          "score": 7.411343,
+          "risk_category": "low",
+          "volume": 4059396.834206,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-g6lIgsIlD7lN.jpg"
+        },
+        {
+          "market_title": "Will the Seattle Seahawks win Super Bowl 2026?",
+          "market_url": "https://polymarket.com/event/will-the-seattle-seahawks-win-super-bowl-2026",
+          "market_end_date": "2026-02-08T12:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.114,
+          "multiplier": 8.77,
+          "score": 6.510847,
+          "risk_category": "low",
+          "volume": 3259989.400525,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/SEA.png"
+        },
+        {
+          "market_title": "Xi Jinping out before 2027?",
+          "market_url": "https://polymarket.com/event/xi-jinping-out-before-2027",
+          "market_end_date": "2026-12-31T00:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.12,
+          "multiplier": 8.33,
+          "score": 6.2031,
+          "risk_category": "low",
+          "volume": 3448512.367491,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/xi-jinping-out-in-2025-EjF4SM20eaa3.jpg"
+        },
+        {
+          "market_title": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+          "market_url": "https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-democratic-presidential-nomination-653",
+          "market_end_date": "2028-11-07T00:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.115,
+          "multiplier": 8.7,
+          "score": 5.858585,
+          "risk_category": "low",
+          "volume": 1922451.086378,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election-eX2nG09sPJUu.png"
+        },
+        {
+          "market_title": "Will PSG win the 2025–26 Champions League?",
+          "market_url": "https://polymarket.com/event/will-psg-win-the-202526-champions-league",
+          "market_end_date": "2026-05-31T00:00:00Z",
+          "outcome_name": "Yes",
+          "probability": 0.115,
+          "multiplier": 8.7,
+          "score": 5.50197,
+          "risk_category": "low",
+          "volume": 1395840.045371,
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png"
+        }
+      ]
+    },
+    "news_feed": [
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Fed emergency rate cut in 2025?",
+        "market_url": "https://polymarket.com/event/fed-emergency-rate-cut-in-2025",
+        "relevance_score": 6.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 3 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will João Cotrim Figueiredo win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-joo-cotrim-figueiredo-win-the-2026-portugal-presidential-election-643",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Rui Moreira win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-rui-moreira-win-the-2026-portugal-presidential-election-693",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Paulo Portas win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-paulo-portas-win-the-2026-portugal-presidential-election-423",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Catarina Martins win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-catarina-martins-win-the-2026-portugal-presidential-election-582",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Tim Vieira win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-tim-vieira-win-the-2026-portugal-presidential-election",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Joana Amaral Dias win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-joana-amaral-dias-win-the-2026-portugal-presidential-election",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will André Pestana win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-andr-pestana-win-the-2026-portugal-presidential-election",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will André Ventura win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-andr-ventura-win-the-2026-portugal-presidential-election",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      },
+      {
+        "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+        "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+        "market_title": "Will Orlando Cruz win the 2026 Portugal presidential election?",
+        "market_url": "https://polymarket.com/event/will-orlando-cruz-win-the-2026-portugal-presidential-election",
+        "relevance_score": 5.5,
+        "affects_outcomes": [
+          "No"
+        ],
+        "impact_direction": "neutral",
+        "confidence": "low",
+        "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap"
+      }
+    ]
+  },
+  "metadata": {
+    "total_markets": 1719,
+    "trending_count": 0,
+    "crypto_count": 0,
+    "news_analyzed": 11330,
+    "snapshot_time": "2025-12-11T07:01:52.886825+00:00"
+  }
+}

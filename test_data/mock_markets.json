@@ -1,0 +1,96 @@
+{
+  "markets": [
+    {
+      "id": "test-market-1",
+      "question": "Will Bitcoin reach $100k by end of 2025?",
+      "description": "Test market for BTC price prediction",
+      "end_date": "2025-12-31T23:59:59Z",
+      "volume": 5000000,
+      "liquidity": 250000,
+      "tags": ["trending", "crypto"],
+      "url": "https://polymarket.com/event/test-btc-100k",
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.45,
+          "volume": 2500000,
+          "liquidity": 125000
+        },
+        {
+          "name": "No",
+          "price": 0.55,
+          "volume": 2500000,
+          "liquidity": 125000
+        }
+      ]
+    },
+    {
+      "id": "test-market-2",
+      "question": "TIME 2025 Person of the Year",
+      "description": "Who will be TIME Person of the Year 2025",
+      "end_date": "2025-12-15T23:59:59Z",
+      "volume": 3000000,
+      "liquidity": 180000,
+      "tags": ["trending"],
+      "url": "https://polymarket.com/event/time-person-2025",
+      "outcomes": [
+        {
+          "name": "Jensen Huang",
+          "price": 0.18,
+          "volume": 600000,
+          "liquidity": 36000
+        },
+        {
+          "name": "Elon Musk",
+          "price": 0.25,
+          "volume": 750000,
+          "liquidity": 45000
+        },
+        {
+          "name": "Sam Altman",
+          "price": 0.08,
+          "volume": 240000,
+          "liquidity": 14400
+        },
+        {
+          "name": "Donald Trump",
+          "price": 0.15,
+          "volume": 450000,
+          "liquidity": 27000
+        }
+      ]
+    },
+    {
+      "id": "test-market-3",
+      "question": "Fed Rate Decision December 2025",
+      "description": "What will the Fed decide on rates?",
+      "end_date": "2025-12-18T20:00:00Z",
+      "volume": 10000000,
+      "liquidity": 500000,
+      "tags": ["trending", "crypto"],
+      "url": "https://polymarket.com/event/fed-dec-2025",
+      "outcomes": [
+        {
+          "name": "25 bps decrease",
+          "price": 0.85,
+          "volume": 8500000,
+          "liquidity": 425000
+        },
+        {
+          "name": "No change",
+          "price": 0.12,
+          "volume": 1200000,
+          "liquidity": 60000
+        },
+        {
+          "name": "25 bps increase",
+          "price": 0.03,
+          "volume": 300000,
+          "liquidity": 15000
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-12-11T00:00:00Z",
+  "count": 3
+}

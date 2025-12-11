@@ -1,0 +1,4300 @@
+{
+  "news_market_mapping": [
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516861",
+      "market_question": "Will Bitcoin reach $1,000,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-1000000-by-december-31-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516862",
+      "market_question": "Will Bitcoin reach $250,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-250000-by-december-31-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516863",
+      "market_question": "Will Bitcoin reach $200,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-200000-by-december-31-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516864",
+      "market_question": "Will Bitcoin reach $150,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-150000-by-december-31-2025-188",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516865",
+      "market_question": "Will Bitcoin reach $130,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-130000-by-december-31-2025-911-832",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516866",
+      "market_question": "Will Bitcoin reach $120,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2025-466-237-645",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516867",
+      "market_question": "Will Bitcoin reach $110,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2025-639-854-873-722-553-227-336-857-637-596-587",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516868",
+      "market_question": "Will Bitcoin reach $100,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2025-619-785-288-224-189-385-619-372-494-824-351",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516869",
+      "market_question": "Will Bitcoin dip to $90,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-90000-by-december-31-2025-825-925-353-891-286-625-515-367-623-129-523-529",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516872",
+      "market_question": "Will Bitcoin dip to $50,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2025-391-715-682-587-692-994-786-318-267-857-157-791-189-328-186",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516870",
+      "market_question": "Will Bitcoin dip to $80,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-80000-by-december-31-2025-718-128-697-979-163-487-491-426-531-191-178-653-748-742",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516871",
+      "market_question": "Will Bitcoin dip to $70,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2025-193-726-878-775-359-968-264-727-793-714-257-318-569-865-147",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516873",
+      "market_question": "Will Bitcoin dip to $20,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-20000-by-december-31-2025-942-621-278-695-321-896-769-417-957-733-354-361-233-126-159",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574072",
+      "market_question": "Will Bitcoin reach $140,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-140000-by-december-31-2025-258-893",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574073",
+      "market_question": "Will Bitcoin reach $170,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-170000-by-december-31-2025-215",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574583",
+      "market_question": "Will Bitcoin reach $125,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-125000-by-december-31-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "620015",
+      "market_question": "Will Bitcoin dip to $80,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-80000-by-december-31-2025-118-573-457-488-883-987-884-891-557",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "619977",
+      "market_question": "Will Bitcoin dip to $90,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-90000-by-december-31-2025-174-623-586-557-784-929-359-548",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "687200",
+      "market_question": "Will Bitcoin reach $100,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2025-213-146-883-729-282",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "687778",
+      "market_question": "Will Bitcoin reach $110,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2025-793",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "663550",
+      "market_question": "Will Bitcoin dip to $100,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-100000-by-december-31-2025-927-732-675-986-387-753-848-782",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "666217",
+      "market_question": "Will Bitcoin reach $120,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2025-472-972",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "799384",
+      "market_question": "Will Bitcoin reach $105,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-105000-by-december-31-2025-784-751",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "800432",
+      "market_question": "Will Bitcoin reach $95,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2025-818-596-821-318-841",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "670234",
+      "market_question": "Will Bitcoin dip to $100,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-100000-by-december-31-2025-333-261-146-145-153",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "800433",
+      "market_question": "Will Bitcoin reach $105,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-105000-by-december-31-2025-159-849-483-977",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "800790",
+      "market_question": "Will Bitcoin dip to $65,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2025-724",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "800505",
+      "market_question": "Will Bitcoin reach $115,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-reach-115000-by-december-31-2025-746",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "800789",
+      "market_question": "Will Bitcoin dip to $75,000 by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2025-515",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516960",
+      "market_question": "Will Google have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516961",
+      "market_question": "Will OpenAI have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-openai-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516967",
+      "market_question": "Will Alibaba have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-alibaba-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516962",
+      "market_question": "Will xAI have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-xai-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516964",
+      "market_question": "Will Meta have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-meta-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516968",
+      "market_question": "Will Mistral AI have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-mistral-ai-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516965",
+      "market_question": "Will DeepSeek have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-deepseek-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516969",
+      "market_question": "Will Microsoft have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-microsoft-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516970",
+      "market_question": "Will Z.ai have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-zai-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516971",
+      "market_question": "Will Tencent have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-tencent-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516972",
+      "market_question": "Will Moonshot have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-moonshot-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516963",
+      "market_question": "Will Anthropic have the top AI model on December 31?",
+      "market_url": "https://polymarket.com/event/will-anthropic-have-the-top-ai-model-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517011",
+      "market_question": "Will Avatar 3 be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-avatar-3-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517012",
+      "market_question": "Will Wicked: For Good be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-wicked-for-good-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517013",
+      "market_question": "Will Superman be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-superman-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517018",
+      "market_question": "Will Thunderbolts be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-thunderbolts-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517014",
+      "market_question": "Will The Fantastic Four: First Steps be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-the-fantastic-four-first-steps-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517015",
+      "market_question": "Will Jurassic World: Rebirth be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-jurassic-world-rebirth-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517016",
+      "market_question": "Will Captain America: Brave New World be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-captain-america-new-world-order-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517017",
+      "market_question": "Will Zootopia 2 be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-zootopia-2-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517020",
+      "market_question": "Will A Minecraft Movie be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-a-minecraft-movie-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517021",
+      "market_question": "Will Lilo & Stitch be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-movie-a-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517019",
+      "market_question": "Will How to Train Your Dragon be the top grossing movie of 2025?",
+      "market_url": "https://polymarket.com/event/will-how-to-train-your-dragon-be-the-top-grossing-movie-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516876",
+      "market_question": "Will Ethereum hit $7,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-7000-by-december-31-733-852",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516874",
+      "market_question": "Will Ethereum hit $10,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-10000-by-december-31-218-525",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516875",
+      "market_question": "Will Ethereum hit $8,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-8000-by-december-31-124-489",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516877",
+      "market_question": "Will Ethereum hit $6,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-6000-by-december-31-843-315",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516880",
+      "market_question": "Will Ethereum dip to $3,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-3000-by-december-31-277-157-883-847-373",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516878",
+      "market_question": "Will Ethereum hit $5,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-5000-by-december-31-796-376",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516879",
+      "market_question": "Will Ethereum hit $4,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-4000-by-december-31-731-987-617",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516881",
+      "market_question": "Will Ethereum dip to $2,500 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-2500-by-december-31-861-464-781-612-817",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516882",
+      "market_question": "Will Ethereum dip to $2,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-746-411-682-256-394",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516883",
+      "market_question": "Will Ethereum dip to $1,500 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-553-734-644-234-855",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516884",
+      "market_question": "Will Ethereum dip to $1,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-1000-by-december-31-498-391-185-526-541-347-589",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574068",
+      "market_question": "Will Ethereum dip to $1,300 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-1300-by-december-31-455-941-866-736-589",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574069",
+      "market_question": "Will Ethereum dip to $800 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-800-by-december-31-947-853-936-835-135",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574070",
+      "market_question": "Will Ethereum hit $4,400 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-4400-by-december-31-228-877",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "574071",
+      "market_question": "Will Ethereum hit $14,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-14000-by-december-31-239-295",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "576410",
+      "market_question": "Will Ethereum hit $17,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-hit-17000-by-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "620018",
+      "market_question": "Will Ethereum dip to $4,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-4000-by-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "620022",
+      "market_question": "Will Ethereum dip to $3,000 by December 31?",
+      "market_url": "https://polymarket.com/event/will-ethereum-dip-to-3000-by-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516719",
+      "market_question": "Russia x Ukraine ceasefire in 2025?",
+      "market_url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516947",
+      "market_question": "Maduro out in 2025?",
+      "market_url": "https://polymarket.com/event/maduro-out-in-2025-411",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "663849",
+      "market_question": "Maduro out by November 30, 2025?",
+      "market_url": "https://polymarket.com/event/maduro-out-by-november-30-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "663850",
+      "market_question": "Maduro out by March 31, 2026?",
+      "market_url": "https://polymarket.com/event/maduro-out-by-march-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "836172",
+      "market_question": "Maduro out by December 31, 2026?",
+      "market_url": "https://polymarket.com/event/maduro-out-by-december-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516818",
+      "market_question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516820",
+      "market_question": "Will Microsoft be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516821",
+      "market_question": "Will Apple be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-apple-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516822",
+      "market_question": "Will Alphabet be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-alphabet-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516824",
+      "market_question": "Will Tesla be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-tesla-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516832",
+      "market_question": "Will Company G be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-company-g-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516845",
+      "market_question": "Will Amazon be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-amazon-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516846",
+      "market_question": "Will Saudi Aramco be the largest company in the world by market cap on December 31?",
+      "market_url": "https://polymarket.com/event/will-saudi-aramco-be-the-largest-company-in-the-world-by-market-cap-on-december-31",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525557",
+      "market_question": "Will Trump sell 0 Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-0-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525599",
+      "market_question": "Will Trump sell over 100k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-over100k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525559",
+      "market_question": "Will Trump sell 101-1k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-101-1k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525561",
+      "market_question": "Will Trump sell 2.5k-5k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-2pt5k-5k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525562",
+      "market_question": "Will Trump sell 5k-10k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-5k-10k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525563",
+      "market_question": "Will Trump sell 10k-25k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-10k-25k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525558",
+      "market_question": "Will Trump sell 1-100 Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-1-100-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525560",
+      "market_question": "Will Trump sell 1k-2.5k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-1k-2pt5k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525564",
+      "market_question": "Will Trump sell 25k-100k Gold Cards in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-sell-25k-100k-gold-cards-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516925",
+      "market_question": "Will the US confirm that aliens exist in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518501",
+      "market_question": "Will 'Superman' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-superman-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518504",
+      "market_question": "Will 'Jurassic World: Rebirth' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-jurassic-world-rebirth-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518506",
+      "market_question": "Will 'Avatar: Fire and Ash' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-avatar-fire-and-ash-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518505",
+      "market_question": "Will 'Captain America: Brave New World' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-captain-america-brave-new-world-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518507",
+      "market_question": "Will 'The Fantastic Four: First Steps' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-fantastic-four-first-steps-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518508",
+      "market_question": "Will 'Zootopia 2' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-zootopia-2-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518509",
+      "market_question": "Will 'Wicked: For Good' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-wicked-for-good-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518510",
+      "market_question": "Will 'A Minecraft Movie' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-a-minecraft-movie-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518511",
+      "market_question": "Will 'Lilo & Stich' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-lilo-stich-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518512",
+      "market_question": "Will 'How to Train Your Dragon' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-how-to-train-your-dragon-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518514",
+      "market_question": "Will 'Michael' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-michael-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518516",
+      "market_question": "Will 'Thunderbolts*' have the best domestic opening weekend in 2025?",
+      "market_url": "https://polymarket.com/event/will-thunderbolts-have-the-best-domestic-opening-weekend-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516927",
+      "market_question": "Will Gold close under $2,500 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-under-2500-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516928",
+      "market_question": "Will Gold close at $2,500-2,600 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-2500-2600-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516929",
+      "market_question": "Will Gold close at $2,600-2,700 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-2600-2700-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516931",
+      "market_question": "Will Gold close at $2,800-2,900 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-2800-2900-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516930",
+      "market_question": "Will Gold close at $2,700-2,800 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-2700-2800-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516932",
+      "market_question": "Will Gold close at $2,900-3,000 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-2900-3000-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516933",
+      "market_question": "Will Gold close at $3,000-3,100 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-3000-3100-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516935",
+      "market_question": "Will Gold close at $3,200 or more at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-3200-or-more-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516934",
+      "market_question": "Will Gold close at $3,100-3,200 at the end of 2025?",
+      "market_url": "https://polymarket.com/event/will-gold-close-at-3100-3200-at-the-end-of-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520930",
+      "market_question": "Jerome Powell out as Fed Chair in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-remove-jerome-powell",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516926",
+      "market_question": "MicroStrategy sells any Bitcoin in 2025?",
+      "market_url": "https://polymarket.com/event/microstrategy-sell-any-bitcoin-in-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "824952",
+      "market_question": "MicroStrategy sells any Bitcoin by December 31, 2026?",
+      "market_url": "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-december-31-2026",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "692250",
+      "market_question": "MicroStrategy sells any Bitcoin by March 31, 2026?",
+      "market_url": "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-march-31-2026",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "692258",
+      "market_question": "MicroStrategy sells any Bitcoin by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/microstrategy-sells-any-bitcoin-by-june-30-2026",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "529315",
+      "market_question": "Will Jesus Christ return in 2025?",
+      "market_url": "https://polymarket.com/event/will-jesus-christ-return-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524151",
+      "market_question": "Will Trump meet with Pope Francis in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-pope-francis-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524153",
+      "market_question": "Will Trump meet with Lai Ching-te in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-lai-ching-te-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524155",
+      "market_question": "Will Trump meet with Javier Milei in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-javier-milei-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524158",
+      "market_question": "Will Trump meet with Yoon Suk Yeol in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-yoon-suk-yeol-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524156",
+      "market_question": "Will Trump meet with MrBeast in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-mrbeast-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524164",
+      "market_question": "Will Trump meet with Ahmed al-Sharaa in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-ahmed-al-sharaa-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524152",
+      "market_question": "Will Trump meet with Keir Starmer in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-keir-starmer-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524160",
+      "market_question": "Will Trump meet with iShowSpeed in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-ishowspeed-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524146",
+      "market_question": "Will Trump meet with Kim Jong Un in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-kim-jong-un-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524147",
+      "market_question": "Will Trump meet with Volodymyr Zelenskyy in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-volodymyr-zelenskyy-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524148",
+      "market_question": "Will Trump meet with Xi Jinping in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-xi-jinping-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524150",
+      "market_question": "Will Trump meet with Ali Khamenei in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-ali-khamenei-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524149",
+      "market_question": "Will Trump meet with Mohammed bin Salman in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-mohammed-bin-salman-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524154",
+      "market_question": "Will Trump meet with Lula da Silva in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-lula-da-silva-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524157",
+      "market_question": "Will Trump meet with Jair Bolsonaro in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-jair-bolsonaro-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "524159",
+      "market_question": "Will Trump meet with Abdel Fattah El-Sisi in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-abdel-fattah-el-sisi-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "542194",
+      "market_question": "Will Trump meet with Friedrich Merz in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-friedrich-merz-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "536502",
+      "market_question": "Will Trump meet with Vladimir Putin in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-vladimir-putin-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "542788",
+      "market_question": "Will Trump meet with Pope Leo XIV in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-pope-leo-xiv-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "576753",
+      "market_question": "Will Trump meet with Aleksandr Lukashenko in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-aleksandr-lukashenko-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "578686",
+      "market_question": "Will Trump meet with Changpeng Zhao in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-changpeng-zhao-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "637092",
+      "market_question": "Will Trump meet with Nicolás Maduro in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-nicols-maduro-in-2025-411",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "688422",
+      "market_question": "Will Trump meet with Nick Fuentes in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-meet-with-nick-fuentes-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516716",
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2025?",
+      "market_url": "https://polymarket.com/event/khamenei-out-as-supreme-leader-of-iran-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "523343",
+      "market_question": "Ukraine election called in 2025?",
+      "market_url": "https://polymarket.com/event/ukraine-election-called-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "610380",
+      "market_question": "Ukraine election called by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/ukraine-election-called-by-june-30-2026-392",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "734115",
+      "market_question": "Ukraine election called by March 31, 2026?",
+      "market_url": "https://polymarket.com/event/ukraine-election-called-by-march-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516720",
+      "market_question": "Putin out as President of Russia in 2025?",
+      "market_url": "https://polymarket.com/event/putin-out-as-president-of-russia-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "523102",
+      "market_question": "Will SOL flip ETH in 2025?",
+      "market_url": "https://polymarket.com/event/will-sol-flip-eth-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "519052",
+      "market_question": "GTA VI released in 2025?",
+      "market_url": "https://polymarket.com/event/gta-vi-released-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "527828",
+      "market_question": "Solana all time high before 2026?",
+      "market_url": "https://polymarket.com/event/solana-all-time-high-before-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516717",
+      "market_question": "Nuclear weapon detonation in 2025?",
+      "market_url": "https://polymarket.com/event/nuclear-weapon-detonation-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "523199",
+      "market_question": "Will Ukraine agree to give up Russian territory in Kursk?",
+      "market_url": "https://polymarket.com/event/will-ukraine-agree-to-give-up-russian-territory-in-kursk",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516710",
+      "market_question": "US recession in 2025?",
+      "market_url": "https://polymarket.com/event/us-recession-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520630",
+      "market_question": "Will China invade Taiwan in 2025?",
+      "market_url": "https://polymarket.com/event/will-china-invade-taiwan-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516838",
+      "market_question": "Tim Cook out as Apple CEO in 2025?",
+      "market_url": "https://polymarket.com/event/tim-cook-out-as-apple-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516840",
+      "market_question": "Dan Clancy out as Twitch CEO in 2025?",
+      "market_url": "https://polymarket.com/event/dan-clancy-out-as-twitch-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516837",
+      "market_question": "Sundar Pichai out as Google CEO in 2025?",
+      "market_url": "https://polymarket.com/event/sundar-pichai-out-as-google-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516842",
+      "market_question": "Brian Armstrong out as Coinbase CEO in 2025?",
+      "market_url": "https://polymarket.com/event/brian-armstrong-out-as-coinbase-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516841",
+      "market_question": "Andy Jassy out as Amazon CEO in 2025?",
+      "market_url": "https://polymarket.com/event/andy-jassy-out-as-amazon-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516847",
+      "market_question": "Sam Altman out as OpenAI CEO in 2025?",
+      "market_url": "https://polymarket.com/event/sam-altman-out-as-openai-ceo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517817",
+      "market_question": "Will Trump acquire Greenland in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-acquire-greenland-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "521532",
+      "market_question": "Starmer out in 2025?",
+      "market_url": "https://polymarket.com/event/starmer-out-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "597967",
+      "market_question": "Starmer out by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/starmer-out-by-june-30-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "666655",
+      "market_question": "Starmer out by December 31, 2026?",
+      "market_url": "https://polymarket.com/event/starmer-out-by-december-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516950",
+      "market_question": "Kraken IPO in 2025?",
+      "market_url": "https://polymarket.com/event/kraken-ipo-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "678876",
+      "market_question": "Kraken IPO by March 31, 2026?",
+      "market_url": "https://polymarket.com/event/kraken-ipo-by-march-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "691547",
+      "market_question": "Kraken IPO by December 31, 2026?",
+      "market_url": "https://polymarket.com/event/kraken-ipo-by-december-31-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520435",
+      "market_question": "Will 01A1 have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-01a1-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520426",
+      "market_question": "Will OpenAI have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-openai-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520427",
+      "market_question": "Will DeepSeek have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-deepseek-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520429",
+      "market_question": "Will Anthropic have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-anthropic-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520428",
+      "market_question": "Will xAI have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-xai-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520430",
+      "market_question": "Will Meta have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-meta-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520431",
+      "market_question": "Will Zhipu AI have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-zhipu-ai-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520433",
+      "market_question": "Will Alibaba have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-alibaba-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520432",
+      "market_question": "Will Mistral have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-mistral-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520434",
+      "market_question": "Will Nvidia have a #1 AI model this year?",
+      "market_url": "https://polymarket.com/event/will-nvidia-have-a-1-ai-model-this-year",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517310",
+      "market_question": "Will Trump deport less than 250,000?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-less-than-250000",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517311",
+      "market_question": "Will Trump deport 250,000-500,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-250000-500000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517313",
+      "market_question": "Will Trump deport 500,000-750,000- people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-500000-750000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517314",
+      "market_question": "Will Trump deport 750,000-1,000,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-750000-1000000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517315",
+      "market_question": "Will Trump deport 1,000,000-1,250,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-1000000-1250000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517318",
+      "market_question": "Will Trump deport 1,750,000-2,000,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-1750000-2000000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517316",
+      "market_question": "Will Trump deport 1,250,000-1,500,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-1250000-1500000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517317",
+      "market_question": "Will Trump deport 1,500,000-1,750,000 people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-1500000-1750000-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517319",
+      "market_question": "Will Trump deport 2,000,000 or more people?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-2000000-or-more-people",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "519695",
+      "market_question": "Will Iran close the Strait of Hormuz in 2025?",
+      "market_url": "https://polymarket.com/event/will-iran-close-the-strait-of-hormuz-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "519732",
+      "market_question": "Will Donald Trump visit China in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-china-in-2025-1",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518889",
+      "market_question": "Will Donald Trump visit Russia in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-russia-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518890",
+      "market_question": "Will Donald Trump visit Ukraine in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-ukraine-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518891",
+      "market_question": "Will Donald Trump visit Taiwan in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-taiwan-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525137",
+      "market_question": "Will Donald Trump visit Italy in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-italy-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518870",
+      "market_question": "Will Donald Trump visit South Korea in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-south-korea-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518862",
+      "market_question": "Will Donald Trump visit the United Kingdom in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-the-united-kingdom-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518865",
+      "market_question": "Will Donald Trump visit Mexico in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-mexico-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518863",
+      "market_question": "Will Donald Trump visit Israel in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-israel-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518864",
+      "market_question": "Will Donald Trump visit Canada in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-canada-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518866",
+      "market_question": "Will Donald Trump visit Saudi Arabia in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-saudi-arabia-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518868",
+      "market_question": "Will Donald Trump visit Japan in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-japan-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518869",
+      "market_question": "Will Donald Trump visit Germany in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-germany-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "518871",
+      "market_question": "Will Donald Trump visit France in 2025?",
+      "market_url": "https://polymarket.com/event/which-countries-will-donald-trump-visit-in-2025-will-donald-trump-visit-france-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "566646",
+      "market_question": "Will Donald Trump visit India in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-india-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "553317",
+      "market_question": "Will Donald Trump visit Oman in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-oman-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "578194",
+      "market_question": "Will Donald Trump visit Turkey in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-belarus-in-2025-323",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "576827",
+      "market_question": "Will Donald Trump visit Belarus in 2025?",
+      "market_url": "https://polymarket.com/event/will-donald-trump-visit-belarus-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517855",
+      "market_question": "Will Trump be impeached in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-be-impeached-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "523420",
+      "market_question": "Ukraine election held by December 31, 2025?",
+      "market_url": "https://polymarket.com/event/ukraine-election-held-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "610381",
+      "market_question": "Ukraine election held by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/ukraine-election-held-by-june-30-2026-465-757",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "677358",
+      "market_question": "Ukraine election held by December 31, 2026?",
+      "market_url": "https://polymarket.com/event/ukraine-election-held-by-december-31-2026-344-142",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "527626",
+      "market_question": "Will Ukraine agree to cede territory to Russia in 2025?",
+      "market_url": "https://polymarket.com/event/will-ukraine-agree-to-cede-territory-to-russia",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517190",
+      "market_question": "Cardano ETF in 2025?",
+      "market_url": "https://polymarket.com/event/cardano-etf-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525220",
+      "market_question": "Will the 10-year Treasury yield dip below 4% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-4-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525221",
+      "market_question": "Will the 10-year Treasury yield dip below 3.5% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt5-in-2025-662-366-362-827",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525222",
+      "market_question": "Will the 10-year Treasury yield dip below 3.0% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt0-in-2025-722-497-742-146",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525223",
+      "market_question": "Will the 10-year Treasury yield dip below 2.0% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-2pt0-in-2025-427-348-123-299",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525224",
+      "market_question": "Will the 10-year Treasury yield dip below 1.0% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-1pt0-in-2025-359-426-414-394",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "637896",
+      "market_question": "Will the 10-year Treasury yield dip below 3.6% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt6-in-2025-877-171-659",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "637897",
+      "market_question": "Will the 10-year Treasury yield dip below 3.7% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt7-in-2025-921-458",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "637898",
+      "market_question": "Will the 10-year Treasury yield dip below 3.8% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt8-in-2025-395",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "637899",
+      "market_question": "Will the 10-year Treasury yield dip below 3.9% in 2025?",
+      "market_url": "https://polymarket.com/event/will-the-10-year-treasury-yield-dip-below-3pt9-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "522056",
+      "market_question": "Ukraine agrees not to join NATO in 2025? ",
+      "market_url": "https://polymarket.com/event/ukraine-agrees-not-to-join-nato-before-july",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516711",
+      "market_question": "Fed emergency rate cut in 2025?",
+      "market_url": "https://polymarket.com/event/fed-emergency-rate-cut-in-2025",
+      "relevance_score": 6.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 3 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "523413",
+      "market_question": "Will any country leave NATO in 2025?",
+      "market_url": "https://polymarket.com/event/will-any-country-leave-nato-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "629267",
+      "market_question": "Will any country leave NATO by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/will-any-country-leave-nato-by-june-30-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516937",
+      "market_question": "US national Bitcoin reserve in 2025?",
+      "market_url": "https://polymarket.com/event/us-national-bitcoin-reserve-in-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517321",
+      "market_question": "Will Trump deport 750,000 or more people in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-deport-750000-or-more-people-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525157",
+      "market_question": "Zelensky resigns in 2025?",
+      "market_url": "https://polymarket.com/event/zelensky-resigns-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516910",
+      "market_question": "New pandemic in 2025?",
+      "market_url": "https://polymarket.com/event/new-pandemic-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "527869",
+      "market_question": "Dogecoin all time high before 2026?",
+      "market_url": "https://polymarket.com/event/dogecoin-all-time-high-before-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "520579",
+      "market_question": "Israel and Saudi Arabia normalize relations in 2025?",
+      "market_url": "https://polymarket.com/event/israel-and-saudi-arabia-normalize-relations-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "527625",
+      "market_question": "ETH flipped in 2025?",
+      "market_url": "https://polymarket.com/event/eth-flipped-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "525860",
+      "market_question": "Will Tesla launch robotaxis in California in 2025?",
+      "market_url": "https://polymarket.com/event/will-tesla-launch-robotaxis-in-california-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516938",
+      "market_question": "Will 2025 be the hottest year on record?",
+      "market_url": "https://polymarket.com/event/will-2025-be-the-hottest-year-on-record",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516712",
+      "market_question": "Tether insolvent in 2025?",
+      "market_url": "https://polymarket.com/event/tether-insolvent-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516713",
+      "market_question": "USDT depeg in 2025?",
+      "market_url": "https://polymarket.com/event/usdt-depeg-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516714",
+      "market_question": "Weed rescheduled in 2025?",
+      "market_url": "https://polymarket.com/event/weed-rescheduled-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516715",
+      "market_question": "Ukraine joins NATO in 2025?",
+      "market_url": "https://polymarket.com/event/ukraine-joins-nato-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516721",
+      "market_question": "Netanyahu out by 2025?",
+      "market_url": "https://polymarket.com/event/netanyahu-out-in-2025-492",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "581878",
+      "market_question": "Netanyahu out by September 30?",
+      "market_url": "https://polymarket.com/event/netanyahu-out-by-september-30-243",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516886",
+      "market_question": "One Direction reunion in 2025?",
+      "market_url": "https://polymarket.com/event/one-direction-reunion-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516887",
+      "market_question": "Britney Spears tour in 2025?",
+      "market_url": "https://polymarket.com/event/britney-spears-tour-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516888",
+      "market_question": "Nara & Lucky divorce in 2025?",
+      "market_url": "https://polymarket.com/event/nara-lucky-divorce-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516905",
+      "market_question": "Lana Del Rey divorce in 2025?",
+      "market_url": "https://polymarket.com/event/lana-del-rey-divorce-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516907",
+      "market_question": "Hailey Bieber pregnant in 2025?",
+      "market_url": "https://polymarket.com/event/hailey-bieber-pregnant-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516939",
+      "market_question": "Will Kim Jong Un visit US in 2025?",
+      "market_url": "https://polymarket.com/event/will-kim-jong-un-visit-us-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516940",
+      "market_question": "Harry & Meghan divorce in 2025?",
+      "market_url": "https://polymarket.com/event/harry-meghan-divorce-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516941",
+      "market_question": "Trump divorce in 2025?",
+      "market_url": "https://polymarket.com/event/trump-divorce-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516942",
+      "market_question": "Bird flu vaccine in 2025?",
+      "market_url": "https://polymarket.com/event/bird-flu-vaccine-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516943",
+      "market_question": "Jay-Z & Beyoncé divorce in 2025?",
+      "market_url": "https://polymarket.com/event/jay-z-beyonc-divorce-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516948",
+      "market_question": "Israel withdraws from Gaza in 2025?",
+      "market_url": "https://polymarket.com/event/israel-withdraws-from-gaza-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "516958",
+      "market_question": "Supreme Court vacancy in 2025?",
+      "market_url": "https://polymarket.com/event/supreme-court-vacancy-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517000",
+      "market_question": "NYSE marketwide circuit breaker in 2025?",
+      "market_url": "https://polymarket.com/event/nyse-marketwide-circuit-breaker-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517073",
+      "market_question": "Assad leaves Russia before 2026?",
+      "market_url": "https://polymarket.com/event/assad-leaves-russia-before-2026",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517124",
+      "market_question": "AI wins IMO gold medal in 2025?",
+      "market_url": "https://polymarket.com/event/ai-wins-math-olympiad-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517191",
+      "market_question": "Pepe ETF in 2025?",
+      "market_url": "https://polymarket.com/event/pepe-etf-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517231",
+      "market_question": "Macron out in 2025?",
+      "market_url": "https://polymarket.com/event/macron-out-in-2025-834",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "597964",
+      "market_question": "Macron out by June 30, 2026?",
+      "market_url": "https://polymarket.com/event/macron-out-by-june-30-2026-273",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "623939",
+      "market_question": "Macron out by October 31, 2025?",
+      "market_url": "https://polymarket.com/event/macron-out-by-october-31-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517425",
+      "market_question": "Magnificent 7 shrinks below 25% of S&P 500 in 2025?",
+      "market_url": "https://polymarket.com/event/magnificent-7-less-than-25-of-sp-500-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517565",
+      "market_question": "Andrew Tate guilty of human trafficking in 2025?",
+      "market_url": "https://polymarket.com/event/andrew-tate-guilty-of-human-trafficking-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517617",
+      "market_question": "Will Trump cut taxes on high earners in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-extend-tax-cut-on-high-earners",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517618",
+      "market_question": "Will Trump cut corporate taxes in 2025?",
+      "market_url": "https://polymarket.com/event/will-trump-cut-corporate-taxes-in-2025",
+      "relevance_score": 5.5,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 1 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517681",
+      "market_question": "Will Waymo surpass Uber SF market share in 2025?",
+      "market_url": "https://polymarket.com/event/will-waymo-surpass-uber-sf-market-share-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517720",
+      "market_question": "Will Bezos announce Washington Post sale in 2025?",
+      "market_url": "https://polymarket.com/event/will-bezos-announce-washington-post-sale-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517755",
+      "market_question": "OpenAI announces it has achieved AGI in 2025?",
+      "market_url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517834",
+      "market_question": "Elon Musk trillionaire in 2025?",
+      "market_url": "https://polymarket.com/event/elon-musk-trillionaire-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    },
+    {
+      "news_id": 9,
+      "news_title": "Bitcoin Traders Bet on 2026 Boom, Not a Santa Rally, Following Fed Rate Cut",
+      "news_link": "https://decrypt.co/351926/bitcoin-traders-bet-2026-boom-not-santa-rally-following-fed-rate-cut",
+      "market_id": "517962",
+      "market_question": "Trump takes Panama Canal in 2025?",
+      "market_url": "https://polymarket.com/event/trump-takes-panama-canal-in-2025",
+      "relevance_score": 5.0,
+      "affects_outcomes": [
+        "No"
+      ],
+      "impact_direction": "neutral",
+      "confidence": "low",
+      "reasoning": "Keyword match: 1 outcomes, 0 keywords overlap",
+      "analysis_method": "keyword_fallback"
+    }
+  ],
+  "stats": {
+    "total_analyzed": 2680,
+    "claude_ai": 0,
+    "keyword_fallback": 0,
+    "errors": 0,
+    "cached": 2680
+  },
+  "analyzed_at": "2025-12-11T06:25:39.697999+00:00"
+}

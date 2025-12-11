@@ -1,0 +1,659 @@
+2025-12-11 13:27:43,998 - __main__ - INFO - ============================================================
+2025-12-11 13:27:43,998 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:27:43,998 - __main__ - INFO - ============================================================
+2025-12-11 13:27:43,998 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:27:43,998 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:27:45,970 - scraper - INFO - Received 200 total markets
+2025-12-11 13:27:45,971 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (30 days)
+2025-12-11 13:27:45,971 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:27:46,013 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:27:46,014 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:27:46,014 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:27:46,021 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:27:46,021 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:27:46,022 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:27:46,022 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:27:46,022 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:27:46,773 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:27:46,774 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:27:47,319 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:27:47,319 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:27:47,845 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:27:47,845 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:27:48,699 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:27:48,699 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:27:48,700 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:27:48,701 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:27:48,701 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:27:48,701 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:27:48,703 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:27:48,705 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:27:48,706 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:27:48,708 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:27:48,709 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:27:48,711 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:27:48,712 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:27:48,714 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:27:48,715 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:27:48,717 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:27:48,742 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:27:48,743 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 3450, 'errors': 0, 'cached': 0}
+2025-12-11 13:27:48,743 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:27:48,743 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:27:48,743 - __main__ - INFO -   - Keyword fallback: 3450
+2025-12-11 13:27:48,743 - __main__ - INFO -   - Cached: 0
+2025-12-11 13:27:48,743 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:27:48,743 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:27:48,743 - aggregator - INFO - Less than 5 opportunities in 48h, expanding to 7 days...
+2025-12-11 13:27:48,747 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:27:48,747 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:27:48,747 - aggregator - INFO -   Closing soon: 0 opportunities
+2025-12-11 13:27:48,747 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:27:48,748 - __main__ - INFO - ✓ Dashboard data saved to frontend/data/dashboard_data.json
+2025-12-11 13:27:48,748 - __main__ - INFO - ============================================================
+2025-12-11 13:27:48,748 - __main__ - INFO - ✅ Pipeline completed successfully in 4.8s
+2025-12-11 13:27:48,748 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:27:48,748 - __main__ - INFO - ============================================================
+2025-12-11 13:30:00,572 - __main__ - INFO - ============================================================
+2025-12-11 13:30:00,573 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:30:00,573 - __main__ - INFO - ============================================================
+2025-12-11 13:30:00,573 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:30:00,573 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:30:01,836 - scraper - INFO - Received 200 total markets
+2025-12-11 13:30:01,837 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (30 days)
+2025-12-11 13:30:01,837 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:30:01,879 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:30:01,880 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:30:01,880 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:30:01,887 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:30:01,887 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:30:01,887 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:30:01,887 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:30:01,887 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:30:02,586 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:30:02,587 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:30:03,406 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:30:03,406 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:30:03,823 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:30:03,823 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:30:04,386 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:30:04,386 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:30:04,387 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:30:04,388 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:30:04,388 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:30:04,393 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:30:04,394 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:30:04,395 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:30:04,395 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:30:04,395 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:30:04,396 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:30:04,396 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:30:04,397 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:30:04,397 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:30:04,398 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:30:04,398 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:30:04,422 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:30:04,423 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 3450}
+2025-12-11 13:30:04,423 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:30:04,423 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:30:04,423 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:30:04,423 - __main__ - INFO -   - Cached: 3450
+2025-12-11 13:30:04,423 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:30:04,423 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:30:04,428 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:30:04,428 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:30:04,428 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:30:04,428 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:30:04,429 - __main__ - INFO - ✓ Dashboard data saved to frontend/data/dashboard_data.json
+2025-12-11 13:30:04,429 - __main__ - INFO - ============================================================
+2025-12-11 13:30:04,429 - __main__ - INFO - ✅ Pipeline completed successfully in 3.9s
+2025-12-11 13:30:04,429 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:30:04,429 - __main__ - INFO - ============================================================
+2025-12-11 13:31:29,081 - __main__ - INFO - ============================================================
+2025-12-11 13:31:29,081 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:31:29,081 - __main__ - INFO - ============================================================
+2025-12-11 13:31:29,081 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:31:29,081 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:31:29,795 - scraper - INFO - Received 200 total markets
+2025-12-11 13:31:29,796 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (30 days)
+2025-12-11 13:31:29,796 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:31:29,835 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:31:29,836 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:31:29,836 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:31:29,843 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:31:29,843 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:31:29,843 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:31:29,843 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:31:29,843 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:31:40,117 - news_fetcher - ERROR - Failed to fetch from chaingpt: HTTPSConnectionPool(host='api.chaingpt.org', port=443): Read timed out. (read timeout=10)
+2025-12-11 13:31:40,117 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:31:40,566 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:31:40,566 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:31:40,976 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:31:40,976 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:31:41,531 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:31:41,532 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:31:41,533 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:31:41,534 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:31:41,534 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:31:41,539 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:31:41,540 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:31:41,540 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:31:41,541 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:31:41,541 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:31:41,542 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:31:41,542 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:31:41,543 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:31:41,543 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:31:41,544 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:31:41,544 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:31:41,568 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:31:41,568 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 3450}
+2025-12-11 13:31:41,568 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:31:41,568 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:31:41,568 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:31:41,568 - __main__ - INFO -   - Cached: 3450
+2025-12-11 13:31:41,568 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:31:41,568 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:31:41,573 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:31:41,573 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:31:41,573 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:31:41,573 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:31:41,573 - __main__ - INFO - ✓ Dashboard data saved to frontend/data/dashboard_data.json
+2025-12-11 13:31:41,573 - __main__ - INFO - ============================================================
+2025-12-11 13:31:41,573 - __main__ - INFO - ✅ Pipeline completed successfully in 12.5s
+2025-12-11 13:31:41,573 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:31:41,573 - __main__ - INFO - ============================================================
+2025-12-11 13:32:10,224 - __main__ - INFO - ============================================================
+2025-12-11 13:32:10,224 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:32:10,224 - __main__ - INFO - ============================================================
+2025-12-11 13:32:10,224 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:32:10,224 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:32:12,312 - scraper - INFO - Received 200 total markets
+2025-12-11 13:32:12,313 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (30 days)
+2025-12-11 13:32:12,313 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:32:12,352 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:32:12,353 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:32:12,353 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:32:12,360 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:32:12,360 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:32:12,360 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:32:12,360 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:32:12,360 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:32:13,492 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:32:13,492 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:32:13,939 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:32:13,939 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:32:14,352 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:32:14,353 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:32:15,099 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:32:15,099 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:32:15,101 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:32:15,102 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:32:15,102 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:32:15,107 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:32:15,108 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:32:15,109 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:32:15,109 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:32:15,110 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:32:15,110 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:32:15,111 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:32:15,111 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:32:15,112 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:32:15,112 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:32:15,113 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:32:15,137 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:32:15,137 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 3450}
+2025-12-11 13:32:15,137 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:32:15,137 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:32:15,137 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:32:15,137 - __main__ - INFO -   - Cached: 3450
+2025-12-11 13:32:15,137 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:32:15,138 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:32:15,142 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:32:15,142 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:32:15,142 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:32:15,142 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:32:15,143 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:32:15,143 - __main__ - INFO - ============================================================
+2025-12-11 13:32:15,143 - __main__ - INFO - ✅ Pipeline completed successfully in 4.9s
+2025-12-11 13:32:15,143 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:32:15,143 - __main__ - INFO - ============================================================
+2025-12-11 13:36:00,479 - __main__ - INFO - ============================================================
+2025-12-11 13:36:00,480 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:36:00,480 - __main__ - INFO - ============================================================
+2025-12-11 13:36:00,480 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:36:00,480 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:36:01,432 - scraper - INFO - Received 200 total markets
+2025-12-11 13:36:01,433 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:36:01,433 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:36:01,474 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:36:01,475 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:36:01,475 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:36:01,482 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:36:01,482 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:36:01,482 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:36:01,482 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:36:01,482 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:36:02,254 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:36:02,254 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:36:02,711 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:36:02,711 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:36:03,465 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:36:03,465 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:36:04,036 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:36:04,036 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:36:04,038 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:36:04,039 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:36:04,039 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:36:04,043 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:36:04,044 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:36:04,045 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:36:04,045 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:36:04,045 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:36:04,046 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:36:04,046 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:36:04,047 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:36:04,047 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:36:04,048 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:36:04,048 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:36:04,073 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:36:04,073 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 3450}
+2025-12-11 13:36:04,073 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:36:04,073 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:36:04,073 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:36:04,073 - __main__ - INFO -   - Cached: 3450
+2025-12-11 13:36:04,073 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:36:04,073 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:36:04,078 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:36:04,078 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:36:04,078 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:36:04,078 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:36:04,078 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:36:04,078 - __main__ - INFO - ============================================================
+2025-12-11 13:36:04,078 - __main__ - INFO - ✅ Pipeline completed successfully in 3.6s
+2025-12-11 13:36:04,078 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:36:04,078 - __main__ - INFO - ============================================================
+2025-12-11 13:37:16,663 - __main__ - INFO - ============================================================
+2025-12-11 13:37:16,663 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:37:16,663 - __main__ - INFO - ============================================================
+2025-12-11 13:37:16,663 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:37:16,663 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:37:18,326 - scraper - INFO - Received 200 total markets
+2025-12-11 13:37:18,327 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:37:18,327 - scraper - INFO - Final deduplicated markets: 117
+2025-12-11 13:37:18,367 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:37:18,368 - __main__ - INFO - ✓ Fetched 117 markets
+2025-12-11 13:37:18,368 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:37:18,375 - risk_calculator - INFO - Enriched 387 markets with risk metrics
+2025-12-11 13:37:18,375 - __main__ - INFO - ✓ Enriched 387 markets with risk scores
+2025-12-11 13:37:18,375 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:37:18,375 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:37:18,375 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:37:19,535 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:37:19,536 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:37:19,990 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:37:19,990 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:37:20,673 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:37:20,673 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:37:21,485 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:37:21,485 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:37:21,488 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:37:21,489 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:37:21,489 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:37:21,494 - news_analyzer - INFO - Analyzing 10 news articles against 387 markets...
+2025-12-11 13:37:21,494 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:37:21,495 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:37:21,495 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:37:21,496 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:37:21,496 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:37:21,496 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:37:21,497 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:37:21,497 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:37:21,498 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:37:21,498 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:37:21,522 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:37:21,523 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 3450, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 3450}
+2025-12-11 13:37:21,523 - __main__ - INFO - ✓ Analyzed 3450 news-market pairs
+2025-12-11 13:37:21,523 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:37:21,523 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:37:21,523 - __main__ - INFO -   - Cached: 3450
+2025-12-11 13:37:21,523 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:37:21,523 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:37:21,527 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:37:21,527 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:37:21,527 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:37:21,527 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:37:21,529 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:37:21,529 - __main__ - INFO - ============================================================
+2025-12-11 13:37:21,529 - __main__ - INFO - ✅ Pipeline completed successfully in 4.9s
+2025-12-11 13:37:21,529 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:37:21,529 - __main__ - INFO - ============================================================
+2025-12-11 13:38:16,097 - __main__ - INFO - ============================================================
+2025-12-11 13:38:16,098 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:38:16,098 - __main__ - INFO - ============================================================
+2025-12-11 13:38:16,098 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:38:16,098 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:38:17,855 - scraper - INFO - Received 500 total markets
+2025-12-11 13:38:17,856 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:38:17,856 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 13:38:17,993 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:38:17,996 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 13:38:17,996 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:38:18,025 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 13:38:18,025 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 13:38:18,025 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:38:18,025 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:38:18,025 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:38:28,295 - news_fetcher - ERROR - Failed to fetch from chaingpt: HTTPSConnectionPool(host='api.chaingpt.org', port=443): Read timed out. (read timeout=10)
+2025-12-11 13:38:28,295 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:38:29,138 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:38:29,138 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:38:29,706 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:38:29,706 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:38:30,800 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:38:30,800 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:38:30,802 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:38:30,803 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:38:30,803 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:38:30,808 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 13:38:30,813 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:38:30,818 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:38:30,822 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:38:30,826 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:38:30,830 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:38:30,837 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:38:30,841 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:38:30,845 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:38:30,849 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:38:30,854 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:38:30,936 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:38:30,936 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 8750, 'errors': 0, 'cached': 2580}
+2025-12-11 13:38:30,937 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 13:38:30,937 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:38:30,937 - __main__ - INFO -   - Keyword fallback: 8750
+2025-12-11 13:38:30,937 - __main__ - INFO -   - Cached: 2580
+2025-12-11 13:38:30,937 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:38:30,937 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:38:30,998 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:38:30,998 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:38:30,998 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:38:30,998 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:38:30,999 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:38:30,999 - __main__ - INFO - ============================================================
+2025-12-11 13:38:30,999 - __main__ - INFO - ✅ Pipeline completed successfully in 14.9s
+2025-12-11 13:38:30,999 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:38:31,000 - __main__ - INFO - ============================================================
+2025-12-11 13:40:02,317 - __main__ - INFO - ============================================================
+2025-12-11 13:40:02,317 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:40:02,317 - __main__ - INFO - ============================================================
+2025-12-11 13:40:02,317 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:40:02,317 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:40:03,785 - scraper - INFO - Received 500 total markets
+2025-12-11 13:40:03,785 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:40:03,785 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 13:40:03,919 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:40:03,922 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 13:40:03,922 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:40:03,951 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 13:40:03,951 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 13:40:03,951 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:40:03,951 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:40:03,951 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:40:05,618 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:40:05,618 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:40:07,091 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:40:07,091 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:40:08,594 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:40:08,594 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:40:09,506 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:40:09,506 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:40:09,508 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:40:09,509 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:40:09,509 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:40:09,525 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 13:40:09,527 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:40:09,529 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:40:09,530 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:40:09,532 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:40:09,534 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:40:09,535 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:40:09,537 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:40:09,538 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:40:09,540 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:40:09,542 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:40:09,625 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:40:09,625 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 11330}
+2025-12-11 13:40:09,627 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 13:40:09,627 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:40:09,627 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:40:09,627 - __main__ - INFO -   - Cached: 11330
+2025-12-11 13:40:09,627 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:40:09,627 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:40:09,691 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:40:09,691 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:40:09,691 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:40:09,691 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:40:09,692 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:40:09,692 - __main__ - INFO - ============================================================
+2025-12-11 13:40:09,692 - __main__ - INFO - ✅ Pipeline completed successfully in 7.4s
+2025-12-11 13:40:09,692 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:40:09,692 - __main__ - INFO - ============================================================
+2025-12-11 13:41:23,467 - __main__ - INFO - ============================================================
+2025-12-11 13:41:23,468 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:41:23,468 - __main__ - INFO - ============================================================
+2025-12-11 13:41:23,468 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:41:23,468 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:41:24,801 - scraper - INFO - Received 500 total markets
+2025-12-11 13:41:24,802 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:41:24,803 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 13:41:24,936 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:41:24,939 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 13:41:24,939 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:41:24,970 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 13:41:24,970 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 13:41:24,970 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:41:24,970 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:41:24,970 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:41:25,896 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:41:25,897 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:41:26,323 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:41:26,323 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:41:26,755 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:41:26,756 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:41:27,528 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:41:27,528 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:41:27,530 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:41:27,530 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:41:27,530 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:41:27,547 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 13:41:27,549 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:41:27,551 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:41:27,552 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:41:27,554 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:41:27,555 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:41:27,557 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:41:27,558 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:41:27,560 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:41:27,562 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:41:27,564 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:41:27,646 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:41:27,646 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 11330}
+2025-12-11 13:41:27,647 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 13:41:27,647 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:41:27,647 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:41:27,647 - __main__ - INFO -   - Cached: 11330
+2025-12-11 13:41:27,647 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:41:27,647 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:41:27,709 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:41:27,709 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:41:27,709 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:41:27,710 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:41:27,711 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:41:27,711 - __main__ - INFO - ============================================================
+2025-12-11 13:41:27,711 - __main__ - INFO - ✅ Pipeline completed successfully in 4.2s
+2025-12-11 13:41:27,711 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:41:27,711 - __main__ - INFO - ============================================================
+2025-12-11 13:42:09,670 - __main__ - INFO - ============================================================
+2025-12-11 13:42:09,671 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:42:09,671 - __main__ - INFO - ============================================================
+2025-12-11 13:42:09,671 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:42:09,671 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:42:10,915 - scraper - INFO - Received 500 total markets
+2025-12-11 13:42:10,916 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:42:10,916 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 13:42:11,054 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:42:11,057 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 13:42:11,057 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:42:11,086 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 13:42:11,086 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 13:42:11,086 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:42:11,086 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:42:11,086 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:42:11,650 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:42:11,650 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:42:12,094 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:42:12,094 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:42:12,583 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:42:12,583 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:42:13,597 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:42:13,597 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:42:13,599 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:42:13,600 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:42:13,600 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:42:13,616 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 13:42:13,618 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:42:13,620 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:42:13,621 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:42:13,623 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:42:13,624 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:42:13,626 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:42:13,627 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:42:13,629 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:42:13,630 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:42:13,632 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:42:13,715 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:42:13,715 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 11330}
+2025-12-11 13:42:13,716 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 13:42:13,716 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:42:13,716 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:42:13,716 - __main__ - INFO -   - Cached: 11330
+2025-12-11 13:42:13,716 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:42:13,716 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:42:13,779 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:42:13,779 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:42:13,779 - aggregator - INFO -   Closing soon: 5 opportunities
+2025-12-11 13:42:13,779 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:42:13,780 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:42:13,780 - __main__ - INFO - ============================================================
+2025-12-11 13:42:13,780 - __main__ - INFO - ✅ Pipeline completed successfully in 4.1s
+2025-12-11 13:42:13,780 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:42:13,780 - __main__ - INFO - ============================================================
+2025-12-11 13:48:57,530 - __main__ - INFO - ============================================================
+2025-12-11 13:48:57,530 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 13:48:57,530 - __main__ - INFO - ============================================================
+2025-12-11 13:48:57,530 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 13:48:57,530 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 13:48:58,979 - scraper - INFO - Received 500 total markets
+2025-12-11 13:48:58,981 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 13:48:58,981 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 13:48:59,116 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 13:48:59,119 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 13:48:59,119 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 13:48:59,147 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 13:48:59,147 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 13:48:59,147 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 13:48:59,147 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 13:48:59,147 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 13:48:59,800 - news_fetcher - ERROR - Failed to fetch from chaingpt: 404 Client Error: Not Found for url: https://api.chaingpt.org/ai-news/rss
+2025-12-11 13:48:59,800 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 13:49:00,380 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 13:49:00,380 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 13:49:01,003 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 13:49:01,003 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 13:49:02,329 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 13:49:02,329 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 13:49:02,332 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 13:49:02,333 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 13:49:02,333 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 13:49:02,350 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 13:49:02,353 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 13:49:02,355 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 13:49:02,357 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 13:49:02,359 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 13:49:02,360 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 13:49:02,362 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 13:49:02,364 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 13:49:02,365 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 13:49:02,367 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 13:49:02,369 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 13:49:02,453 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 13:49:02,453 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 11330}
+2025-12-11 13:49:02,454 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 13:49:02,454 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 13:49:02,454 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 13:49:02,454 - __main__ - INFO -   - Cached: 11330
+2025-12-11 13:49:02,454 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 13:49:02,454 - aggregator - INFO - Building dashboard data...
+2025-12-11 13:49:02,513 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 13:49:02,513 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 13:49:02,513 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 13:49:02,515 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 13:49:02,515 - __main__ - INFO - ============================================================
+2025-12-11 13:49:02,515 - __main__ - INFO - ✅ Pipeline completed successfully in 5.0s
+2025-12-11 13:49:02,515 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 13:49:02,515 - __main__ - INFO - ============================================================
+2025-12-11 14:01:37,732 - __main__ - INFO - ============================================================
+2025-12-11 14:01:37,732 - __main__ - INFO - Polymarket Dashboard Pipeline Started
+2025-12-11 14:01:37,733 - __main__ - INFO - ============================================================
+2025-12-11 14:01:37,733 - __main__ - INFO - [1/5] Fetching Polymarket markets...
+2025-12-11 14:01:37,733 - scraper - INFO - Fetching markets from Gamma API (attempt 1/3)...
+2025-12-11 14:01:39,909 - scraper - INFO - Received 500 total markets
+2025-12-11 14:01:39,910 - scraper - INFO - Filtered: 100 trending (by volume), 50 crypto (by keywords), 30 closing soon (60 days)
+2025-12-11 14:01:39,910 - scraper - INFO - Final deduplicated markets: 138
+2025-12-11 14:01:40,049 - scraper - INFO - Saved snapshot to data/polymarket_snapshot.json
+2025-12-11 14:01:40,052 - __main__ - INFO - ✓ Fetched 138 markets
+2025-12-11 14:01:40,052 - __main__ - INFO - [2/5] Calculating risk metrics...
+2025-12-11 14:01:40,081 - risk_calculator - INFO - Enriched 1719 markets with risk metrics
+2025-12-11 14:01:40,081 - __main__ - INFO - ✓ Enriched 1719 markets with risk scores
+2025-12-11 14:01:40,081 - __main__ - INFO - [3/5] Fetching crypto news (last 48h)...
+2025-12-11 14:01:40,081 - news_fetcher - INFO - Fetching news from last 48 hours...
+2025-12-11 14:01:40,081 - news_fetcher - INFO - Fetching from chaingpt...
+2025-12-11 14:01:50,499 - news_fetcher - ERROR - Failed to fetch from chaingpt: HTTPSConnectionPool(host='api.chaingpt.org', port=443): Read timed out. (read timeout=10)
+2025-12-11 14:01:50,499 - news_fetcher - INFO - Fetching from cointelegraph...
+2025-12-11 14:01:51,048 - news_fetcher - INFO -   Found 30 from cointelegraph
+2025-12-11 14:01:51,048 - news_fetcher - INFO - Fetching from decrypt...
+2025-12-11 14:01:51,856 - news_fetcher - INFO -   Found 31 from decrypt
+2025-12-11 14:01:51,856 - news_fetcher - INFO - Fetching from cryptonews...
+2025-12-11 14:01:52,589 - news_fetcher - INFO -   Found 50 from cryptonews
+2025-12-11 14:01:52,589 - news_fetcher - INFO - Total news fetched: 111
+2025-12-11 14:01:52,591 - news_fetcher - INFO - Saved news to data/news_raw.json
+2025-12-11 14:01:52,591 - __main__ - INFO - ✓ Fetched 111 news articles
+2025-12-11 14:01:52,592 - __main__ - INFO - [4/5] Analyzing news relevance...
+2025-12-11 14:01:52,610 - news_analyzer - INFO - Analyzing 10 news articles against 1719 markets...
+2025-12-11 14:01:52,613 - news_analyzer - INFO - Analyzed news 1/10
+2025-12-11 14:01:52,616 - news_analyzer - INFO - Analyzed news 2/10
+2025-12-11 14:01:52,618 - news_analyzer - INFO - Analyzed news 3/10
+2025-12-11 14:01:52,621 - news_analyzer - INFO - Analyzed news 4/10
+2025-12-11 14:01:52,624 - news_analyzer - INFO - Analyzed news 5/10
+2025-12-11 14:01:52,626 - news_analyzer - INFO - Analyzed news 6/10
+2025-12-11 14:01:52,629 - news_analyzer - INFO - Analyzed news 7/10
+2025-12-11 14:01:52,631 - news_analyzer - INFO - Analyzed news 8/10
+2025-12-11 14:01:52,634 - news_analyzer - INFO - Analyzed news 9/10
+2025-12-11 14:01:52,637 - news_analyzer - INFO - Analyzed news 10/10
+2025-12-11 14:01:52,814 - news_analyzer - INFO - Saved analysis to data/news_analyzed.json
+2025-12-11 14:01:52,814 - news_analyzer - INFO - Analysis complete: {'total_analyzed': 11330, 'claude_ai': 0, 'keyword_fallback': 0, 'errors': 0, 'cached': 11330}
+2025-12-11 14:01:52,815 - __main__ - INFO - ✓ Analyzed 11330 news-market pairs
+2025-12-11 14:01:52,815 - __main__ - INFO -   - Claude AI: 0
+2025-12-11 14:01:52,815 - __main__ - INFO -   - Keyword fallback: 0
+2025-12-11 14:01:52,815 - __main__ - INFO -   - Cached: 11330
+2025-12-11 14:01:52,815 - __main__ - INFO - [5/5] Building dashboard data...
+2025-12-11 14:01:52,815 - aggregator - INFO - Building dashboard data...
+2025-12-11 14:01:52,886 - aggregator - INFO - Dashboard data built successfully
+2025-12-11 14:01:52,886 - aggregator - INFO -   Risk categories: 5 medium, 5 low
+2025-12-11 14:01:52,887 - aggregator - INFO -   News feed: 10 articles
+2025-12-11 14:01:52,888 - __main__ - INFO - ✓ Dashboard data saved to ../frontend/data/dashboard_data.json
+2025-12-11 14:01:52,888 - __main__ - INFO - ============================================================
+2025-12-11 14:01:52,889 - __main__ - INFO - ✅ Pipeline completed successfully in 15.2s
+2025-12-11 14:01:52,889 - __main__ - INFO - Dashboard ready at: frontend/index.html
+2025-12-11 14:01:52,889 - __main__ - INFO - ============================================================
