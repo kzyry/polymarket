@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "description": "Curated Polymarket events for dashboard analysis",
+    "total_markets": 6,
+    "fetched_at": "2025-12-12",
+    "total_volume": "$169,973,374",
+    "categories": ["Fed Policy", "Politics", "Geopolitics", "Commodities"]
+  },
+  "markets": [
+    {
+      "id": "fed-decision-in-january",
+      "title": "Fed decision in January?",
+      "slug": "fed-decision-in-january",
+      "url": "https://polymarket.com/event/fed-decision-in-january",
+      "category": "Fed Policy",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/jerome+powell+glasses1.png",
+      "description": "The market tracks basis point changes to the upper bound of the Federal Reserve's target federal funds rate following the January 27-28, 2026 FOMC meeting. Changes are rounded to the nearest 25 basis points.",
+      "status": "active",
+      "created_at": "2025-09-17",
+      "end_date": "2026-01-28",
+      "resolution_source": "FOMC statement per official Federal Reserve calendar and monetary policy website",
+      "metrics": {
+        "total_volume": 8125902,
+        "total_liquidity": 1605123,
+        "competitive_score": 0.92
+      },
+      "outcomes": [
+        {
+          "name": "No change",
+          "probability": 0.79,
+          "price_yes": 0.79,
+          "price_no": 0.22,
+          "volume": 1895820,
+          "multiplier_yes": "1.27x",
+          "multiplier_no": "4.55x"
+        },
+        {
+          "name": "25 bps decrease",
+          "probability": 0.20,
+          "price_yes": 0.20,
+          "price_no": 0.81,
+          "volume": 1711802,
+          "multiplier_yes": "5.00x",
+          "multiplier_no": "1.23x"
+        },
+        {
+          "name": "50+ bps decrease",
+          "probability": 0.01,
+          "price_yes": 0.011,
+          "price_no": 0.99,
+          "volume": 1845528,
+          "multiplier_yes": "90.91x",
+          "multiplier_no": "1.01x"
+        },
+        {
+          "name": "25+ bps increase",
+          "probability": 0.01,
+          "price_yes": 0.010,
+          "price_no": 0.991,
+          "volume": 2672753,
+          "multiplier_yes": "100.00x",
+          "multiplier_no": "1.01x"
+        }
+      ]
+    },
+    {
+      "id": "presidential-election-winner-2028",
+      "title": "Presidential Election Winner 2028",
+      "slug": "presidential-election-winner-2028",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/presidential-election-winner-2024-afdda358-219d-448a-abb5-ba4d14118d71.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/presidential-election-winner-2024-afdda358-219d-448a-abb5-ba4d14118d71.png",
+      "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028. The prediction market resolves to whoever wins, with resolution sources being AP, Fox News, and NBC.",
+      "status": "active",
+      "created_at": "2025-01-01",
+      "end_date": "2028-11-07",
+      "resolution_source": "AP, Fox News, and NBC election calls",
+      "metrics": {
+        "total_volume": 146570000,
+        "total_liquidity": 11200000,
+        "competitive_score": null
+      },
+      "outcomes": [
+        {
+          "name": "JD Vance",
+          "probability": 0.30,
+          "price_yes": 0.30,
+          "price_no": 0.71,
+          "volume": 2920000,
+          "multiplier_yes": "3.33x",
+          "multiplier_no": "1.41x"
+        },
+        {
+          "name": "Gavin Newsom",
+          "probability": 0.18,
+          "price_yes": 0.18,
+          "price_no": 0.83,
+          "volume": 2260000,
+          "multiplier_yes": "5.56x",
+          "multiplier_no": "1.20x"
+        },
+        {
+          "name": "Alexandria Ocasio-Cortez",
+          "probability": 0.08,
+          "price_yes": 0.08,
+          "price_no": 0.93,
+          "volume": 1180000,
+          "multiplier_yes": "12.50x",
+          "multiplier_no": "1.08x"
+        },
+        {
+          "name": "Donald Trump",
+          "probability": 0.043,
+          "price_yes": 0.044,
+          "price_no": 0.957,
+          "volume": 2240000,
+          "multiplier_yes": "22.73x",
+          "multiplier_no": "1.04x"
+        },
+        {
+          "name": "Marco Rubio",
+          "probability": 0.04,
+          "price_yes": 0.041,
+          "price_no": 0.960,
+          "volume": 1600000,
+          "multiplier_yes": "24.39x",
+          "multiplier_no": "1.04x"
+        },
+        {
+          "name": "Kamala Harris",
+          "probability": 0.04,
+          "price_yes": 0.038,
+          "price_no": 0.963,
+          "volume": 2290000,
+          "multiplier_yes": "26.32x",
+          "multiplier_no": "1.04x"
+        }
+      ]
+    },
+    {
+      "id": "russia-x-ukraine-ceasefire-before-2027",
+      "title": "Russia x Ukraine ceasefire by end of 2026?",
+      "slug": "russia-x-ukraine-ceasefire-before-2027",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "description": "Market resolves 'Yes' if an official ceasefire agreement—defined as 'a publicly announced and mutually agreed halt in military engagement'—occurs by December 31, 2026, 11:59 PM ET. Agreement must be officially announced by both Russia and Ukraine. Informal agreements and humanitarian pauses do NOT qualify.",
+      "status": "active",
+      "created_at": "2025-07-24",
+      "end_date": "2026-12-31",
+      "resolution_source": "Official announcements or wide consensus of credible media reporting",
+      "metrics": {
+        "total_volume": 3981068,
+        "total_liquidity": 209508,
+        "competitive_score": null
+      },
+      "outcomes": [
+        {
+          "name": "Yes",
+          "probability": 0.505,
+          "price_yes": 0.505,
+          "price_no": 0.495,
+          "volume": null,
+          "multiplier_yes": "1.98x",
+          "multiplier_no": "2.02x"
+        },
+        {
+          "name": "No",
+          "probability": 0.495,
+          "price_yes": 0.495,
+          "price_no": 0.505,
+          "volume": null,
+          "multiplier_yes": "2.02x",
+          "multiplier_no": "1.98x"
+        }
+      ]
+    },
+    {
+      "id": "what-price-will-gold-close-at-in-2025",
+      "title": "What price will gold close at in 2025?",
+      "slug": "what-price-will-gold-close-at-in-2025",
+      "url": "https://polymarket.com/event/what-price-will-gold-close-at-in-2025",
+      "category": "Commodities",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/what-price-will-gold-close-at-in-2025-DzZIsuy0XZEH.png",
+      "description": "This is a market group over gold prices at the end of 2025. Resolution based on COMEX Gold Continuous Contract (GC00) closing price on December 31, 2025.",
+      "status": "active",
+      "created_at": "2025-01-01",
+      "end_date": "2025-12-31",
+      "resolution_source": "COMEX Gold Continuous Contract (GC00)",
+      "metrics": {
+        "total_volume": 7895207,
+        "total_liquidity": 927691,
+        "competitive_score": null
+      },
+      "outcomes": [
+        {
+          "name": "<$2,500",
+          "probability": 0.002,
+          "price_yes": 0.002,
+          "price_no": 0.999,
+          "volume": 805834,
+          "multiplier_yes": "500.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$2,500-$2,600",
+          "probability": 0.001,
+          "price_yes": 0.001,
+          "price_no": 0.999,
+          "volume": 909074,
+          "multiplier_yes": "1000.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$2,600-$2,700",
+          "probability": 0.002,
+          "price_yes": 0.002,
+          "price_no": 0.999,
+          "volume": 591307,
+          "multiplier_yes": "500.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$2,700-$2,800",
+          "probability": 0.001,
+          "price_yes": 0.001,
+          "price_no": 0.999,
+          "volume": 465280,
+          "multiplier_yes": "1000.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$2,800-$2,900",
+          "probability": 0.001,
+          "price_yes": 0.001,
+          "price_no": 0.999,
+          "volume": 616267,
+          "multiplier_yes": "1000.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$2,900-$3,000",
+          "probability": 0.003,
+          "price_yes": 0.003,
+          "price_no": 0.999,
+          "volume": 991032,
+          "multiplier_yes": "333.33x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$3,000-$3,100",
+          "probability": 0.003,
+          "price_yes": 0.003,
+          "price_no": 0.999,
+          "volume": 1121086,
+          "multiplier_yes": "333.33x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$3,100-$3,200",
+          "probability": 0.004,
+          "price_yes": 0.004,
+          "price_no": 0.998,
+          "volume": 1281158,
+          "multiplier_yes": "250.00x",
+          "multiplier_no": "1.00x"
+        },
+        {
+          "name": "$3,200+",
+          "probability": 0.99,
+          "price_yes": 0.995,
+          "price_no": 0.006,
+          "volume": 1114168,
+          "multiplier_yes": "1.01x",
+          "multiplier_no": "166.67x"
+        }
+      ]
+    },
+    {
+      "id": "how-many-fed-rate-cuts-in-2026",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+      "category": "Fed Policy",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-fed-rate-cuts-in-2025-9qstZkSL1dn0.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/how-many-fed-rate-cuts-in-2025-9qstZkSL1dn0.jpg",
+      "description": "Market resolves based on exact 25 basis point cuts in 2026 by the Federal Reserve, including any cuts made during the December meeting. Any reduction of 1-24 bps counts as '1 rate cut'.",
+      "status": "active",
+      "created_at": "2025-01-01",
+      "end_date": "2026-12-31",
+      "resolution_source": "FOMC statements after meetings scheduled in 2026, Federal Reserve official website",
+      "metrics": {
+        "total_volume": 897363,
+        "total_liquidity": 645693,
+        "competitive_score": null
+      },
+      "outcomes": [
+        {
+          "name": "0 cuts",
+          "probability": 0.05,
+          "price_yes": 0.054,
+          "price_no": 0.948,
+          "volume": 82546,
+          "multiplier_yes": "18.52x",
+          "multiplier_no": "1.05x"
+        },
+        {
+          "name": "1 cut",
+          "probability": 0.14,
+          "price_yes": 0.14,
+          "price_no": 0.87,
+          "volume": 100292,
+          "multiplier_yes": "7.14x",
+          "multiplier_no": "1.15x"
+        },
+        {
+          "name": "2 cuts",
+          "probability": 0.22,
+          "price_yes": 0.22,
+          "price_no": 0.79,
+          "volume": 86568,
+          "multiplier_yes": "4.55x",
+          "multiplier_no": "1.27x"
+        },
+        {
+          "name": "3 cuts",
+          "probability": 0.21,
+          "price_yes": 0.21,
+          "price_no": 0.80,
+          "volume": 58083,
+          "multiplier_yes": "4.76x",
+          "multiplier_no": "1.25x"
+        },
+        {
+          "name": "4 cuts",
+          "probability": 0.13,
+          "price_yes": 0.13,
+          "price_no": 0.88,
+          "volume": 53767,
+          "multiplier_yes": "7.69x",
+          "multiplier_no": "1.14x"
+        },
+        {
+          "name": "5 cuts",
+          "probability": 0.09,
+          "price_yes": 0.10,
+          "price_no": 0.92,
+          "volume": 78229,
+          "multiplier_yes": "10.00x",
+          "multiplier_no": "1.09x"
+        },
+        {
+          "name": "6+ cuts",
+          "probability": 0.16,
+          "price_yes": null,
+          "price_no": null,
+          "volume": 437878,
+          "multiplier_yes": null,
+          "multiplier_no": null
+        }
+      ]
+    },
+    {
+      "id": "first-to-5k-gold-or-eth",
+      "title": "First to 5k: Gold or ETH?",
+      "slug": "first-to-5k-gold-or-eth",
+      "url": "https://polymarket.com/event/first-to-5k-gold-or-eth",
+      "category": "Commodities",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/first-to-5k-gold-or-eth-9Zt2RB0rwODb.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/first-to-5k-gold-or-eth-9Zt2RB0rwODb.jpg",
+      "description": "A prediction market comparing which asset reaches $5,000 first between October 8, 2025, and June 30, 2026. Gold is measured via COMEX Continuous Contract (GC00) during regular trading hours; Ethereum uses Binance ETH/USDT 1-minute candle closing prices. Markets resolve 50-50 if neither asset reaches $5,000 or both hit the threshold simultaneously.",
+      "status": "active",
+      "created_at": "2025-10-08",
+      "end_date": "2026-06-30",
+      "resolution_source": "COMEX for gold (GC00), Binance ETH/USDT for Ethereum",
+      "metrics": {
+        "total_volume": 527834,
+        "total_liquidity": 44829,
+        "volume_24h": 2124,
+        "volume_7d": 36554,
+        "competitive_score": 0.9988
+      },
+      "outcomes": [
+        {
+          "name": "Gold",
+          "probability": 0.54,
+          "price_yes": 0.535,
+          "price_no": 0.465,
+          "volume": null,
+          "multiplier_yes": "1.87x",
+          "multiplier_no": "2.15x"
+        },
+        {
+          "name": "ETH",
+          "probability": 0.46,
+          "price_yes": 0.465,
+          "price_no": 0.535,
+          "volume": null,
+          "multiplier_yes": "2.15x",
+          "multiplier_no": "1.87x"
+        }
+      ]
+    }
+  ]
+}

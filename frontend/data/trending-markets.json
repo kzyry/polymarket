@@ -1,0 +1,619 @@
+{
+  "metadata": {
+    "description": "Trending Polymarket events collection",
+    "total_markets": 30,
+    "fetched_at": "2025-12-12",
+    "total_volume_usd": "$1,900,000,000+",
+    "categories": ["Politics", "Geopolitics", "Sports", "Entertainment", "Crypto", "Business"]
+  },
+  "markets": [
+    {
+      "id": "maduro-out-in-2025",
+      "title": "Maduro out by...?",
+      "slug": "maduro-out-in-2025",
+      "url": "https://polymarket.com/event/maduro-out-in-2025",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maduro-out-in-2024-IioUZQNiyLYz.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/maduro-out-in-2024-IioUZQNiyLYz.jpg",
+      "description": "Will Venezuela's president, Nicolás Maduro, be removed from power for any length of time between January 1 and December 31, 2025, 11:59 PM ET",
+      "status": "active",
+      "end_date": "2026-12-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 23701548,
+        "total_liquidity": 645502
+      },
+      "outcomes": [
+        {"name": "By Dec 31, 2025", "probability": 0.09, "price_yes": 0.09, "volume": 16790000},
+        {"name": "By Jan 31, 2026", "probability": 0.20, "price_yes": 0.20, "volume": 6029},
+        {"name": "By Mar 31, 2026", "probability": 0.39, "price_yes": 0.39, "volume": 1290000},
+        {"name": "By Dec 31, 2026", "probability": 0.56, "price_yes": 0.57, "volume": 53183}
+      ]
+    },
+    {
+      "id": "elon-musk-of-tweets-december-5-december-12",
+      "title": "Elon Musk # tweets December 5 - December 12, 2025?",
+      "slug": "elon-musk-of-tweets-december-5-december-12",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-december-5-december-12",
+      "category": "Entertainment",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-of-tweets-nov-22-29-apMPG21-pzx_.jpg",
+      "description": "Market resolves based on posts from @elonmusk on X during December 5-12, 2025. Only main feed posts, quote posts and reposts count.",
+      "status": "active",
+      "end_date": "2025-12-12",
+      "resolution_source": "xtracker.polymarket.com",
+      "metrics": {
+        "total_volume": 11500000,
+        "total_liquidity": 381600
+      },
+      "outcomes": [
+        {"name": "420-439", "probability": 0.14, "price_yes": 0.156, "volume": 727000},
+        {"name": "440-459", "probability": 0.65, "price_yes": 0.654, "volume": 545000},
+        {"name": "460-479", "probability": 0.20, "price_yes": 0.207, "volume": 504000}
+      ]
+    },
+    {
+      "id": "us-x-venezuela-military-engagement-by",
+      "title": "US x Venezuela military engagement by...?",
+      "slug": "us-x-venezuela-military-engagement-by",
+      "url": "https://polymarket.com/event/us-x-venezuela-military-engagement-by",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-venezuela-military-engagement-by-october-31-vTvJcKGlVvkm.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-x-venezuela-military-engagement-by-october-31-vTvJcKGlVvkm.jpg",
+      "description": "Market resolves Yes if military engagement occurs between US and Venezuelan forces. Use of force such as missile strikes, artillery fire, exchange of gunfire.",
+      "status": "active",
+      "end_date": "2026-03-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 36487774,
+        "total_liquidity": 275149
+      },
+      "outcomes": [
+        {"name": "By December 15", "probability": 0.06, "price_yes": 0.055, "volume": 2600000},
+        {"name": "By December 31", "probability": 0.20, "price_yes": 0.195, "volume": 7500000},
+        {"name": "By March 31, 2026", "probability": 0.53, "price_yes": 0.53, "volume": 483000}
+      ]
+    },
+    {
+      "id": "who-will-trump-nominate-as-fed-chair",
+      "title": "Who will Trump nominate as Fed Chair?",
+      "slug": "who-will-trump-nominate-as-fed-chair",
+      "url": "https://polymarket.com/event/who-will-trump-nominate-as-fed-chair",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-nominate-as-fed-chair-9p19ttRwsbKL.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-trump-nominate-as-fed-chair-9p19ttRwsbKL.png",
+      "description": "This market will resolve according to the next individual Donald Trump formally nominates to be Chair of the Federal Reserve by December 31, 2026",
+      "status": "active",
+      "end_date": "2026-12-31",
+      "resolution_source": "U.S. Senate official records",
+      "metrics": {
+        "total_volume": 36373586,
+        "total_liquidity": 682275
+      },
+      "outcomes": [
+        {"name": "Kevin Hassett", "probability": 0.74, "price_yes": 0.735, "volume": 2247977},
+        {"name": "Kevin Warsh", "probability": 0.14, "price_yes": 0.135, "volume": 586718},
+        {"name": "Scott Bessent", "probability": 0.036, "price_yes": 0.037, "volume": 686989}
+      ]
+    },
+    {
+      "id": "russia-x-ukraine-ceasefire-in-2025",
+      "title": "Russia x Ukraine ceasefire in 2025?",
+      "slug": "russia-x-ukraine-ceasefire-in-2025",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-in-2025",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/russia-x-ukraine-ceasefire-in-2025-w2voYOygx80B.jpg",
+      "description": "Resolves Yes if there is a publicly announced and mutually agreed halt in military engagement between Russia and Ukraine by December 31, 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Official announcements or wide consensus of credible media reporting",
+      "metrics": {
+        "total_volume": 52599418,
+        "total_liquidity": 875309
+      },
+      "outcomes": [
+        {"name": "Yes", "probability": 0.03, "price_yes": 0.0295},
+        {"name": "No", "probability": 0.97, "price_yes": 0.9705}
+      ]
+    },
+    {
+      "id": "largest-company-end-of-2025",
+      "title": "Largest Company end of 2025?",
+      "slug": "largest-company-end-of-2025",
+      "url": "https://polymarket.com/event/largest-company-end-of-2025",
+      "category": "Business",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/largest-company-eoy-KS99l6lbxfCc.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/largest-company-eoy-KS99l6lbxfCc.jpg",
+      "description": "Which company will be the largest by market capitalization on December 31, 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 52271910,
+        "total_liquidity": 1890031
+      },
+      "outcomes": [
+        {"name": "NVIDIA", "probability": 0.92, "price_yes": 0.92, "volume": 4193531},
+        {"name": "Apple", "probability": 0.074, "price_yes": 0.076, "volume": 2395158},
+        {"name": "Microsoft", "probability": 0.003, "price_yes": 0.003, "volume": 2314088}
+      ]
+    },
+    {
+      "id": "honduras-presidential-election",
+      "title": "Honduras Presidential Election",
+      "slug": "honduras-presidential-election",
+      "url": "https://polymarket.com/event/honduras-presidential-election",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/honduras-presidential-election-YbanXhNoWriZ.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/honduras-presidential-election-YbanXhNoWriZ.jpg",
+      "description": "Presidential elections scheduled for November 30, 2025 in Honduras",
+      "status": "active",
+      "end_date": "2025-11-30",
+      "resolution_source": "Honduras National Election Council (CNE)",
+      "metrics": {
+        "total_volume": 20854438,
+        "total_liquidity": 376892
+      },
+      "outcomes": [
+        {"name": "Nasry 'Tito' Asfura", "probability": 0.913, "price_yes": 0.914, "volume": 6948838},
+        {"name": "Salvador Nasralla", "probability": 0.082, "price_yes": 0.084, "volume": 7487915}
+      ]
+    },
+    {
+      "id": "boxing-jake-paul-vs-anthony-joshua",
+      "title": "Boxing: Jake Paul vs. Anthony Joshua",
+      "slug": "boxing-jake-paul-vs-anthony-joshua-third-option-included",
+      "url": "https://polymarket.com/event/boxing-jake-paul-vs-anthony-joshua-third-option-included",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/boxing-jake-paul-vs-anthony-joshua-third-option-included-O9JsNln3VFfX.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/boxing-jake-paul-vs-anthony-joshua-third-option-included-O9JsNln3VFfX.jpg",
+      "description": "Professional boxing match scheduled for December 19, 2025",
+      "status": "active",
+      "end_date": "2025-12-19",
+      "resolution_source": "Official fight organizer information",
+      "metrics": {
+        "total_volume": 1011196,
+        "total_liquidity": 49331
+      },
+      "outcomes": [
+        {"name": "Anthony Joshua", "probability": 0.87, "price_yes": 0.87, "volume": 290528},
+        {"name": "Jake Paul", "probability": 0.072, "price_yes": 0.07, "volume": 479153},
+        {"name": "Draw/Not Scored", "probability": 0.058, "price_yes": 0.058, "volume": 241515}
+      ]
+    },
+    {
+      "id": "what-price-will-bitcoin-hit-in-2025",
+      "title": "What price will Bitcoin hit in 2025?",
+      "slug": "what-price-will-bitcoin-hit-in-2025",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-2025",
+      "category": "Crypto",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "description": "Market group tracking various Bitcoin price thresholds throughout 2025",
+      "status": "active",
+      "end_date": "2026-01-01",
+      "resolution_source": "Binance BTCUSDT 1-minute candle data",
+      "metrics": {
+        "total_volume": 103145154,
+        "total_liquidity": 3454933
+      },
+      "outcomes": [
+        {"name": "$150,000", "probability": 0.01, "price_yes": 0.006, "volume": 13300000},
+        {"name": "$130,000", "probability": 0.01, "price_yes": 0.011, "volume": 10700000},
+        {"name": "$100,000", "probability": 0.38, "price_yes": 0.38, "volume": 103000}
+      ]
+    },
+    {
+      "id": "2026-fifa-world-cup-winner",
+      "title": "2026 FIFA World Cup Winner",
+      "slug": "2026-fifa-world-cup-winner-595",
+      "url": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-fifa-world-cup-winner-ITPKPUTc8QkB.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2026-fifa-world-cup-winner-ITPKPUTc8QkB.jpg",
+      "description": "Market resolves based on the national team winning the 2026 FIFA World Cup tournament",
+      "status": "active",
+      "end_date": "2026-07-20",
+      "resolution_source": "Official FIFA information",
+      "metrics": {
+        "total_volume": 17925071,
+        "total_liquidity": 3407893
+      },
+      "outcomes": [
+        {"name": "Spain", "probability": 0.16, "price_yes": 0.155, "volume": 278649},
+        {"name": "England", "probability": 0.13, "price_yes": 0.125, "volume": 255924},
+        {"name": "France", "probability": 0.13, "price_yes": 0.125, "volume": 496812},
+        {"name": "Argentina", "probability": 0.10, "price_yes": 0.095, "volume": 417827}
+      ]
+    },
+    {
+      "id": "time-2025-person-of-the-year",
+      "title": "Time 2025 Person of the Year",
+      "slug": "time-2025-person-of-the-year",
+      "url": "https://polymarket.com/event/time-2025-person-of-the-year",
+      "category": "Entertainment",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/time-2024-person-of-the-year-opFCUnLfR7Sv.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/time-2024-person-of-the-year-opFCUnLfR7Sv.png",
+      "description": "Who will be named Time Magazine's Person of the Year in 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "TIME magazine cover announcement",
+      "metrics": {
+        "total_volume": 55286904,
+        "total_liquidity": 7124176
+      },
+      "outcomes": [
+        {"name": "Pope Francis", "probability": 0.0005, "price_yes": 0.0005, "volume": 2820500},
+        {"name": "LeBron James", "probability": 0.001, "price_yes": 0.001, "volume": 10400431}
+      ]
+    },
+    {
+      "id": "portugal-presidential-election",
+      "title": "Portugal Presidential Election",
+      "slug": "portugal-presidential-election",
+      "url": "https://polymarket.com/event/portugal-presidential-election",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/portugal-presidential-election-_h_A97vllNOX.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/portugal-presidential-election-_h_A97vllNOX.png",
+      "description": "Presidential elections scheduled for January 18 or 25, 2026 in Portugal",
+      "status": "active",
+      "end_date": "2026-01-25",
+      "resolution_source": "Portuguese National Election Commission (CNE)",
+      "metrics": {
+        "total_volume": 52853028,
+        "total_liquidity": 509948
+      },
+      "outcomes": [
+        {"name": "Luís Marques Mendes", "probability": 0.71, "price_yes": 0.71, "volume": 400347},
+        {"name": "Henrique Gouveia e Melo", "probability": 0.17, "price_yes": 0.18, "volume": 212393},
+        {"name": "André Ventura", "probability": 0.077, "price_yes": 0.078, "volume": 562000}
+      ]
+    },
+    {
+      "id": "2025-national-heads-up-poker-championship",
+      "title": "2025 National Heads-Up Poker Championship Winner",
+      "slug": "2025-national-heads-up-poker-championship-winner-845",
+      "url": "https://polymarket.com/event/2025-national-heads-up-poker-championship-winner-845",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2025-national-heads-up-poker-championship-winner-4Mcph8sO9IpY.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/2025-national-heads-up-poker-championship-winner-4Mcph8sO9IpY.jpg",
+      "description": "Prediction market for 2025 National Heads-Up Poker Championship premiering on Peacock",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Peacock, PokerGO, PokerStars streams",
+      "metrics": {
+        "total_volume": 223013716,
+        "total_liquidity": 5549882
+      },
+      "outcomes": [
+        {"name": "Sam Soverel", "probability": 0.989, "price_yes": 0.99, "volume": 680372},
+        {"name": "Erik Seidel", "probability": 0.004, "price_yes": 0.004, "volume": 3672622}
+      ]
+    },
+    {
+      "id": "democratic-presidential-nominee-2028",
+      "title": "Democratic Presidential Nominee 2028",
+      "slug": "democratic-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/democrats+2028+donkey.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/democrats+2028+donkey.png",
+      "description": "Who will win and accept the 2028 nomination of the Democratic Party for U.S. president",
+      "status": "active",
+      "end_date": "2028-11-07",
+      "resolution_source": "Official Democratic Party sources",
+      "metrics": {
+        "total_volume": 364055325,
+        "total_liquidity": 17356313
+      },
+      "outcomes": [
+        {"name": "Gavin Newsom", "probability": 0.36, "price_yes": 0.36, "volume": 4145008},
+        {"name": "Alexandria Ocasio-Cortez", "probability": 0.11, "price_yes": 0.11, "volume": 1925950},
+        {"name": "Pete Buttigieg", "probability": 0.05, "price_yes": 0.05, "volume": 1302182}
+      ]
+    },
+    {
+      "id": "xi-jinping-out-in-2025",
+      "title": "Xi Jinping out in 2025?",
+      "slug": "xi-jinping-out-in-2025",
+      "url": "https://polymarket.com/event/xi-jinping-out-in-2025",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/xi-jinping-out-in-2025-EjF4SM20eaa3.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/xi-jinping-out-in-2025-EjF4SM20eaa3.jpg",
+      "description": "Will China's General Secretary Xi Jinping be removed from power between June 12 and December 31, 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 67463176,
+        "total_liquidity": 775253
+      },
+      "outcomes": [
+        {"name": "Yes", "probability": 0.0065, "price_yes": 0.0065},
+        {"name": "No", "probability": 0.9935, "price_yes": 0.9935}
+      ]
+    },
+    {
+      "id": "what-price-will-ethereum-hit-in-2025",
+      "title": "What price will Ethereum hit in 2025?",
+      "slug": "what-price-will-ethereum-hit-in-2025",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-2025",
+      "category": "Crypto",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ETH+fullsize.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ETH+fullsize.jpg",
+      "description": "Market group over what prices Ethereum will hit in 2025",
+      "status": "active",
+      "end_date": "2026-01-01",
+      "resolution_source": "Binance ETHUSDT High prices using 1-minute candles",
+      "metrics": {
+        "total_volume": 53100000,
+        "total_liquidity": 1900000
+      },
+      "outcomes": [
+        {"name": "$5,000", "probability": 0.02, "price_yes": 0.017, "volume": 13900000},
+        {"name": "$6,000", "probability": 0.01, "price_yes": 0.008, "volume": 8100000},
+        {"name": "$7,000", "probability": 0.005, "price_yes": 0.005, "volume": 6800000}
+      ]
+    },
+    {
+      "id": "highest-grossing-movie-in-2025",
+      "title": "Highest grossing movie in 2025?",
+      "slug": "highest-grossing-movie-in-2025",
+      "url": "https://polymarket.com/event/highest-grossing-movie-in-2025",
+      "category": "Entertainment",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/highest-grossing-movie-in-2025-23YRHKqq6Ete.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/highest-grossing-movie-in-2025-23YRHKqq6Ete.jpg",
+      "description": "Which movie will have the highest box office earnings in 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Box Office Mojo (domestic calendar gross 2025)",
+      "metrics": {
+        "total_volume": 99808083,
+        "total_liquidity": 6983030
+      },
+      "outcomes": [
+        {"name": "A Minecraft Movie", "probability": 0.974, "price_yes": 0.9745, "volume": 3820789},
+        {"name": "Avatar 3", "probability": 0.020, "price_yes": 0.0205, "volume": 4594314},
+        {"name": "Zootopia 2", "probability": 0.0025, "price_yes": 0.0025, "volume": 5325666}
+      ]
+    },
+    {
+      "id": "2026-nba-champion",
+      "title": "2026 NBA Champion",
+      "slug": "2026-nba-champion",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/nba-finals-points-leader-7g2ZEZvMXxLb.jpg",
+      "description": "Predict the winner of the 2025-26 NBA Finals",
+      "status": "active",
+      "end_date": "2026-07-01",
+      "resolution_source": "NBA information",
+      "metrics": {
+        "total_volume": 83487050,
+        "total_liquidity": 9607007
+      },
+      "outcomes": [
+        {"name": "Oklahoma City Thunder", "probability": 0.47, "price_yes": 0.47},
+        {"name": "Denver Nuggets", "probability": 0.10, "price_yes": 0.10},
+        {"name": "Houston Rockets", "probability": 0.07, "price_yes": 0.07}
+      ]
+    },
+    {
+      "id": "super-bowl-champion-2026",
+      "title": "Super Bowl Champion 2026",
+      "slug": "super-bowl-champion-2026-731",
+      "url": "https://polymarket.com/event/super-bowl-champion-2026-731",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/football-logo.png",
+      "description": "Predict the winner of the NFL Super Bowl for the 2025/26 season",
+      "status": "active",
+      "end_date": "2026-02-08",
+      "resolution_source": "UMA Oracle",
+      "metrics": {
+        "total_volume": 618702827,
+        "total_liquidity": 10006488
+      },
+      "outcomes": [
+        {"name": "Los Angeles Rams", "probability": 0.184, "price_yes": 0.187, "volume": 2701070},
+        {"name": "Seattle Seahawks", "probability": 0.113, "price_yes": 0.113, "volume": 3265468},
+        {"name": "Buffalo Bills", "probability": 0.10, "price_yes": 0.10, "volume": 2340540}
+      ]
+    },
+    {
+      "id": "republican-presidential-nominee-2028",
+      "title": "Republican Presidential Nominee 2028",
+      "slug": "republican-presidential-nominee-2028",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republicans+2028.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/republicans+2028.png",
+      "description": "Who will win and accept the 2028 nomination of the Republican Party for U.S. president",
+      "status": "active",
+      "end_date": "2028-11-07",
+      "resolution_source": "Official Republican Party sources",
+      "metrics": {
+        "total_volume": 116965070,
+        "total_liquidity": 6687548
+      },
+      "outcomes": [
+        {"name": "J.D. Vance", "probability": 0.54, "price_yes": 0.54},
+        {"name": "Marco Rubio", "probability": 0.084, "price_yes": 0.086},
+        {"name": "Donald Trump", "probability": 0.053, "price_yes": 0.054}
+      ]
+    },
+    {
+      "id": "uefa-champions-league-winner",
+      "title": "UEFA Champions League Winner",
+      "slug": "uefa-champions-league-winner",
+      "url": "https://polymarket.com/event/uefa-champions-league-winner",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/uefa-champions-league-2025-26-which-teams-qualify-StbSIjaEx2St.png",
+      "description": "Predict which club will win the 2025-26 UEFA Champions League",
+      "status": "active",
+      "end_date": "2026-05-31",
+      "resolution_source": "Official UEFA Champions League information",
+      "metrics": {
+        "total_volume": 113261731,
+        "total_liquidity": 11353862
+      },
+      "outcomes": [
+        {"name": "Arsenal", "probability": 0.18, "volume": 956577},
+        {"name": "Bayern Munich", "probability": 0.18, "volume": 1283045},
+        {"name": "Man City", "probability": 0.12, "volume": 794587}
+      ]
+    },
+    {
+      "id": "lighter-market-cap-fdv",
+      "title": "Lighter market cap (FDV) one day after launch?",
+      "slug": "lighter-market-cap-fdv-one-day-after-launch",
+      "url": "https://polymarket.com/event/lighter-market-cap-fdv-one-day-after-launch",
+      "category": "Crypto",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lighter-market-cap-fdv-one-day-after-launch-RYYJzkspbftO.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/lighter-market-cap-fdv-one-day-after-launch-RYYJzkspbftO.jpg",
+      "description": "Will Fully Diluted Valuation of Lighter's token be greater than $1B 1 day after launch",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Most liquid price source available",
+      "metrics": {
+        "total_volume": 19500000,
+        "total_liquidity": 451700
+      },
+      "outcomes": [
+        {"name": ">$1B", "probability": 0.68, "price_yes": 0.69, "volume": 7200000},
+        {"name": ">$2B", "probability": 0.61, "price_yes": 0.62, "volume": 6400000},
+        {"name": ">$3B", "probability": 0.48, "price_yes": 0.48, "volume": 1100000}
+      ]
+    },
+    {
+      "id": "chile-presidential-election",
+      "title": "Chile Presidential Election",
+      "slug": "chile-presidential-election",
+      "url": "https://polymarket.com/event/chile-presidential-election",
+      "category": "Politics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+chile.png",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/flag+chile.png",
+      "description": "Presidential elections scheduled for November 16, 2025 in Chile",
+      "status": "active",
+      "end_date": "2025-11-16",
+      "resolution_source": "Chilean Electoral Service (Serval)",
+      "metrics": {
+        "total_volume": 81966808,
+        "total_liquidity": 491754
+      },
+      "outcomes": [
+        {"name": "José Antonio Kast", "probability": 0.98, "price_yes": 0.982},
+        {"name": "Jeannette Jara", "probability": 0.02, "price_yes": 0.024}
+      ]
+    },
+    {
+      "id": "english-premier-league-winner",
+      "title": "English Premier League Winner",
+      "slug": "english-premier-league-winner",
+      "url": "https://polymarket.com/event/english-premier-league-winner",
+      "category": "Sports",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/english-premier-league-winner-VFcNkpZeA9Sz.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/english-premier-league-winner-VFcNkpZeA9Sz.jpg",
+      "description": "Predict which club will win the 2025-26 English Premier League",
+      "status": "active",
+      "end_date": "2026-05-27",
+      "resolution_source": "Official EPL information",
+      "metrics": {
+        "total_volume": 132882788,
+        "total_liquidity": 6420449
+      },
+      "outcomes": [
+        {"name": "Arsenal", "probability": 0.57, "volume": 2680000},
+        {"name": "Man City", "probability": 0.32, "volume": 2390000},
+        {"name": "Chelsea", "probability": 0.027, "volume": 2540000}
+      ]
+    },
+    {
+      "id": "which-company-has-best-ai-model",
+      "title": "Which company has best AI model end of 2025?",
+      "slug": "which-company-has-best-ai-model-end-of-2025",
+      "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2025",
+      "category": "Business",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-company-has-best-ai-model-end-of-september-MmASwbTkwKHi.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/which-company-has-best-ai-model-end-of-september-MmASwbTkwKHi.jpg",
+      "description": "Which company will have top-performing AI model by December 31, 2025 based on Chatbot Arena Leaderboard",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Chatbot Arena LLM Leaderboard",
+      "metrics": {
+        "total_volume": 29000220,
+        "total_liquidity": 1679851
+      },
+      "outcomes": [
+        {"name": "Google", "probability": 0.81, "volume": 2400000},
+        {"name": "OpenAI", "probability": 0.161, "volume": 1800000},
+        {"name": "xAI", "probability": 0.024, "volume": 1600000}
+      ]
+    },
+    {
+      "id": "where-will-zelenskyy-and-putin-meet",
+      "title": "Where will Zelenskyy and Putin meet next?",
+      "slug": "where-will-trump-and-putin-meet-next-393",
+      "url": "https://polymarket.com/event/where-will-trump-and-putin-meet-next-393",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-putin-meet-next-in-another-country-754-536-882-631-152-Sivx1Fw9C2UJ.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-and-putin-meet-next-in-another-country-754-536-882-631-152-Sivx1Fw9C2UJ.jpg",
+      "description": "Location of next meeting between Zelenskyy and Putin between August 18 and December 31, 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 11728120,
+        "total_liquidity": 373954
+      },
+      "outcomes": [
+        {"name": "No meeting by Dec 31", "probability": 0.984}
+      ]
+    },
+    {
+      "id": "which-movie-best-opening-weekend-2025",
+      "title": "Which movie has biggest opening weekend in 2025?",
+      "slug": "which-movie-has-best-opening-weekend-in-2025",
+      "url": "https://polymarket.com/event/which-movie-has-best-opening-weekend-in-2025",
+      "category": "Entertainment",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/best-opening-weekend-2025-MriMcNXdenrd.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/best-opening-weekend-2025-MriMcNXdenrd.jpg",
+      "description": "Which film will earn the most domestically during its opening weekend in 2025",
+      "status": "active",
+      "end_date": "2025-12-31",
+      "resolution_source": "The Numbers weekend box office tables",
+      "metrics": {
+        "total_volume": 17062017,
+        "total_liquidity": 232521
+      },
+      "outcomes": [
+        {"name": "A Minecraft Movie", "probability": 0.98, "volume": 1500543},
+        {"name": "Avatar: Fire and Ash", "probability": 0.01, "volume": 1661942}
+      ]
+    },
+    {
+      "id": "israel-x-iran-ceasefire-broken",
+      "title": "Israel x Iran ceasefire broken by...?",
+      "slug": "israel-x-iran-ceasefire-broken-by",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-broken-by",
+      "category": "Geopolitics",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-iran-ceasefire-broken-by--OrvBXFZfRmz.jpg",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/israel-x-iran-ceasefire-broken-by--OrvBXFZfRmz.jpg",
+      "description": "Resolves Yes if either nation initiates drone, missile, or air strikes on the other's soil",
+      "status": "active",
+      "end_date": "2026-03-31",
+      "resolution_source": "Consensus of credible reporting",
+      "metrics": {
+        "total_volume": 3112060,
+        "total_liquidity": 36164
+      },
+      "outcomes": [
+        {"name": "By Dec 31, 2025", "probability": 0.03, "price_yes": 0.028, "volume": 671856},
+        {"name": "By Mar 31, 2026", "probability": 0.25, "price_yes": 0.26, "volume": 57639}
+      ]
+    }
+  ]
+}
